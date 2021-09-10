@@ -89,7 +89,3 @@ write.csv(names3, file = "shp_phylo_fossil_full_join.txt")
 ####correções
 #corrigi Callicebus hoffmannsi na filogenia
 # Aloutta_seniculus no shp aparece com subespécies.
-
-#proximo passo: montar um script ou continuar aqui para baixar os dados geográficos dos que estão faltando.
-
-# https://liibre.github.io/Rocc/articles/basic_workflow.html
