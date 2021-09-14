@@ -1,0 +1,100 @@
+	code	issue	description	type
+1	bri	BASIS_OF_RECORD_INVALID	The given basis of record is impossible to interpret or seriously different from the recommended vocabulary.	occurrence
+2	ccm	CONTINENT_COUNTRY_MISMATCH	The interpreted continent and country do not match up.	occurrence
+3	cdc	CONTINENT_DERIVED_FROM_COORDINATES	The interpreted continent is based on the coordinates, not the verbatim string information.	occurrence
+4	conti	CONTINENT_INVALID	Uninterpretable continent values found.	occurrence
+5	cdiv	COORDINATE_INVALID	Coordinate value given in some form but GBIF is unable to interpret it.	occurrence
+6	cdout	COORDINATE_OUT_OF_RANGE	Coordinate has invalid lat/lon values out of their decimal max range.	occurrence
+7	cdrep	COORDINATE_REPROJECTED	The original coordinate was successfully reprojected from a different geodetic datum to WGS84.	occurrence
+8	cdrepf	COORDINATE_REPROJECTION_FAILED	The given decimal latitude and longitude could not be reprojected to WGS84 based on the provided datum.	occurrence
+9	cdreps	COORDINATE_REPROJECTION_SUSPICIOUS	Indicates successful coordinate reprojection according to provided datum, but which results in a datum shift larger than 0.1 decimal degrees.	occurrence
+10	cdround	COORDINATE_ROUNDED	Original coordinate modified by rounding to 5 decimals.	occurrence
+11	cucdmis	COUNTRY_COORDINATE_MISMATCH	The interpreted occurrence coordinates fall outside of the indicated country.	occurrence
+12	cudc	COUNTRY_DERIVED_FROM_COORDINATES	The interpreted country is based on the coordinates, not the verbatim string information.	occurrence
+13	cuiv	COUNTRY_INVALID	Uninterpretable country values found.	occurrence
+14	cum	COUNTRY_MISMATCH	Interpreted country for dwc:country and dwc:countryCode contradict each other.	occurrence
+15	depmms	DEPTH_MIN_MAX_SWAPPED	Set if supplied min>max	occurrence
+16	depnn	DEPTH_NON_NUMERIC	Set if depth is a non numeric value	occurrence
+17	depnmet	DEPTH_NOT_METRIC	Set if supplied depth is not given in the metric system, for example using feet instead of meters	occurrence
+18	depunl	DEPTH_UNLIKELY	Set if depth is larger than 11.000m or negative.	occurrence
+19	elmms	ELEVATION_MIN_MAX_SWAPPED	Set if supplied min > max elevation	occurrence
+20	elnn	ELEVATION_NON_NUMERIC	Set if elevation is a non numeric value	occurrence
+21	elnmet	ELEVATION_NOT_METRIC	Set if supplied elevation is not given in the metric system, for example using feet instead of meters	occurrence
+22	elunl	ELEVATION_UNLIKELY	Set if elevation is above the troposphere (17km) or below 11km (Mariana Trench).	occurrence
+23	gass84	GEODETIC_DATUM_ASSUMED_WGS84	Indicating that the interpreted coordinates assume they are based on WGS84 datum as the datum was either not indicated or interpretable.	occurrence
+24	gdativ	GEODETIC_DATUM_INVALID	The geodetic datum given could not be interpreted.	occurrence
+25	iddativ	IDENTIFIED_DATE_INVALID	The date given for dwc:dateIdentified is invalid and cant be interpreted at all.	occurrence
+26	iddatunl	IDENTIFIED_DATE_UNLIKELY	The date given for dwc:dateIdentified is in the future or before Linnean times (1700).	occurrence
+27	mdativ	MODIFIED_DATE_INVALID	A (partial) invalid date is given for dc:modified, such as a non existing date, invalid zero month, etc.	occurrence
+28	mdatunl	MODIFIED_DATE_UNLIKELY	The date given for dc:modified is in the future or predates unix time (1970).	occurrence
+29	muldativ	MULTIMEDIA_DATE_INVALID	An invalid date is given for dc:created of a multimedia object.	occurrence
+30	muluriiv	MULTIMEDIA_URI_INVALID	An invalid uri is given for a multimedia object.	occurrence
+31	preneglat	PRESUMED_NEGATED_LATITUDE	Latitude appears to be negated, e.g. 32.3 instead of -32.3	occurrence
+32	preneglon	PRESUMED_NEGATED_LONGITUDE	Longitude appears to be negated, e.g. 32.3 instead of -32.3	occurrence
+33	preswcd	PRESUMED_SWAPPED_COORDINATE	Latitude and longitude appear to be swapped.	occurrence
+34	rdativ	RECORDED_DATE_INVALID	A (partial) invalid date is given, such as a non existing date, invalid zero month, etc.	occurrence
+35	rdatm	RECORDED_DATE_MISMATCH	The recording date specified as the eventDate string and the individual year, month, day are contradicting.	occurrence
+36	rdatunl	RECORDED_DATE_UNLIKELY	The recording date is highly unlikely, falling either into the future or represents a very old date before 1600 that predates modern taxonomy.	occurrence
+37	refuriiv	REFERENCES_URI_INVALID	An invalid uri is given for dc:references.	occurrence
+38	txmatfuz	TAXON_MATCH_FUZZY	Matching to the taxonomic backbone can only be done using a fuzzy, non exact match.	occurrence
+39	txmathi	TAXON_MATCH_HIGHERRANK	Matching to the taxonomic backbone can only be done on a higher rank and not the scientific name.	occurrence
+40	txmatnon	TAXON_MATCH_NONE	Matching to the taxonomic backbone cannot be done cause there was no match at all or several matches with too little information to keep them apart (homonyms).	occurrence
+41	typstativ	TYPE_STATUS_INVALID	The given type status is impossible to interpret or seriously different from the recommended vocabulary.	occurrence
+42	zerocd	ZERO_COORDINATE	Coordinate is the exact 0/0 coordinate, often indicating a bad null coordinate.	occurrence
+43	cdpi	COORDINATE_PRECISION_INVALID	Indicates an invalid or very unlikely coordinatePrecision	occurrence
+44	cdumi	COORDINATE_UNCERTAINTY_METERS_INVALID	Indicates an invalid or very unlikely dwc:uncertaintyInMeters.	occurrence
+45	indci	INDIVIDUAL_COUNT_INVALID	Individual count value not parsable into an integer.	occurrence
+46	interr	INTERPRETATION_ERROR	An error occurred during interpretation, leaving the record interpretation incomplete.	occurrence
+47	iccos	INDIVIDUAL_COUNT_CONFLICTS_WITH_OCCURRENCE_STATUS	Example: individual count value > 0, but occurrence status is absent and etc.	occurrence
+48	osiic	OCCURRENCE_STATUS_INFERRED_FROM_INDIVIDUAL_COUNT	Occurrence status was inferred from the individual count value	occurrence
+49	osu	OCCURRENCE_STATUS_UNPARSABLE	Occurrence status value can't be assigned to OccurrenceStatus	occurrence
+50	geodi	GEOREFERENCED_DATE_INVALID	The date given for dwc:georeferencedDate is invalid and can't be interpreted at all.	occurrence
+51	geodu	GEOREFERENCED_DATE_UNLIKELY	The date given for dwc:georeferencedDate is in the future or before Linnean times (1700).	occurrence
+52	ambcol	AMBIGUOUS_COLLECTION	The given collection matches with more than 1 GrSciColl collection.	occurrence
+53	ambinst	AMBIGUOUS_INSTITUTION	The given institution matches with more than 1 GrSciColl institution.	occurrence
+54	colmafu	COLLECTION_MATCH_FUZZY	The given collection was fuzzily matched to a GrSciColl collection.	occurrence
+55	colmano	COLLECTION_MATCH_NONE	The given collection couldn't be matched with any GrSciColl collection.	occurrence
+56	incomis	INSTITUTION_COLLECTION_MISMATCH	The collection matched doesn't belong to the institution matched.	occurrence
+57	inmafu	INSTITUTION_MATCH_FUZZY	The given institution was fuzzily matched to a GrSciColl institution.	occurrence
+58	inmano	INSTITUTION_MATCH_NONE	The given institution couldn't be matched with any GrSciColl institution.	occurrence
+59	osifbor	OCCURRENCE_STATUS_INFERRED_FROM_BASIS_OF_RECORD	Occurrence status was inferred from basis of records	occurrence
+60	diffown	DIFFERENT_OWNER_INSTITUTION	The given owner institution is different than the given institution. Therefore we assume it doesn't belong to the institution and we don't link it to the occurrence.	occurrence
+61	taxmatagg	TAXON_MATCH_AGGREGATE	Matching to the taxonomic backbone can only be done on a species level, but the occurrence was in fact considered a broader species aggregate/complex.	occurrence
+62	fpsrsinv	FOOTPRINT_SRS_INVALID	The Footprint Spatial Reference System given could not be interpreted	occurrence
+63	fpwktinv	FOOTPRINT_WKT_INVALID	The Footprint Well-Known-Text given could not be interpreted	occurrence
+64	anm	ACCEPTED_NAME_MISSING	Synonym lacking an accepted name.	name
+65	annu	ACCEPTED_NAME_NOT_UNIQUE	Synonym has a verbatim accepted name which is not unique and refers to several records.	name
+66	anuidi	ACCEPTED_NAME_USAGE_ID_INVALID	The value for dwc:acceptedNameUsageID could not be resolved.	name
+67	aitidinv	ALT_IDENTIFIER_INVALID	At least one alternative identifier extension record attached to this name usage is invalid.	name
+68	bbmn	BACKBONE_MATCH_NONE	Name usage could not be matched to the GBIF backbone.	name
+69	basauthm	BASIONYM_AUTHOR_MISMATCH	The authorship of the original name does not match the authorship in brackets of the actual name.	name
+70	bibrinv	BIB_REFERENCE_INVALID	At least one bibliographic reference extension record attached to this name usage is invalid.	name
+71	chsun	CHAINED_SYNOYM	If a synonym points to another synonym as its accepted taxon the chain is resolved.	name
+72	clasna	CLASSIFICATION_NOT_APPLIED	The denormalized classification could not be applied to the name usage.	name
+73	clasroi	CLASSIFICATION_RANK_ORDER_INVALID	The given ranks of the names in the classification hierarchy do not follow the hierarchy of ranks.	name
+74	conbascomb	CONFLICTING_BASIONYM_COMBINATION	There have been more than one accepted name in a homotypical basionym group of names.	name
+75	desinv	DESCRIPTION_INVALID	At least one description extension record attached to this name usage is invalid.	name
+76	disinv	DISTRIBUTION_INVALID	At least one distribution extension record attached to this name usage is invalid.	name
+77	hom	HOMONYM	A not synonymized homonym exists for this name in some other backbone source which have been ignored at build time.	name
+78	minv	MULTIMEDIA_INVALID	At least one multimedia extension record attached to this name usage is invalid.	name
+79	npm	NAME_PARENT_MISMATCH	The (accepted) bi/trinomial name does not match the parent name and should be recombined into the parent genus/species.	name
+80	ns	NO_SPECIES	The group (currently only genera are tested) are lacking any accepted species GBIF backbone specific issue.	name
+81	nsinv	NOMENCLATURAL_STATUS_INVALID	dwc:nomenclaturalStatus could not be interpreted	name
+82	onder	ORIGINAL_NAME_DERIVED	Record has a original name (basionym) relationship which was derived from name & authorship comparison, but did not exist explicitly in the data.	name
+83	onnu	ORIGINAL_NAME_NOT_UNIQUE	Record has a verbatim original name (basionym) which is not unique and refers to several records.	name
+84	onuidinv	ORIGINAL_NAME_USAGE_ID_INVALID	The value for dwc:originalNameUsageID could not be resolved.	name
+85	ov	ORTHOGRAPHIC_VARIANT	A potential orthographic variant exists in the backbone.	name
+86	pc	PARENT_CYCLE	The child parent classification resulted into a cycle that needed to be resolved/cut.	name
+87	pnnu	PARENT_NAME_NOT_UNIQUE	Record has a verbatim parent name which is not unique and refers to several records.	name
+88	pnuidinv	PARENT_NAME_USAGE_ID_INVALID	The value for dwc:parentNameUsageID could not be resolved.	name
+89	pp	PARTIALLY_PARSABLE	The beginning of the scientific name string was parsed, but there is additional information in the string that was not understood.	name
+90	pbg	PUBLISHED_BEFORE_GENUS	A bi/trinomial name published earlier than the parent genus was published.	name
+91	rankinv	RANK_INVALID	dwc:taxonRank could not be interpreted	name
+92	relmiss	RELATIONSHIP_MISSING	There were problems representing all name usage relationships, i.e.	name
+93	scina	SCIENTIFIC_NAME_ASSEMBLED	The scientific name was assembled from the individual name parts and not given as a whole string.	name
+94	spprinv	SPECIES_PROFILE_INVALID	At least one species profile extension record attached to this name usage is invalid.	name
+95	taxstinv	TAXONOMIC_STATUS_INVALID	dwc:taxonomicStatus could not be interpreted	name
+96	taxstmis	TAXONOMIC_STATUS_MISMATCH	no description	name
+97	unpars	UNPARSABLE	The scientific name string could not be parsed at all, but appears to be a parsable name type, i.e.	name
+98	vernnameinv	VERNACULAR_NAME_INVALID	At least one vernacular name extension record attached to this name usage is invalid.	name
+99	backmatagg	BACKBONE_MATCH_AGGREGATE	Name usage could only be matched to a GBIF backbone species, but was in fact a broader species aggregate/complex.	name

@@ -80,11 +80,65 @@ fossil <- read_excel("D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platy
 names3 <- full_join(names, fossil, by = c("tip.label" = "binomial"),
                     copy = TRUE,  suffix = c(".x", ".y"),  keep = TRUE, na_matches = "na")
 
+write.csv(names3, file = "shp_phylo_fossil_full_join.txt")
+
 #check the spelling of a species
-n <- get_tsn('Neosaimiri fieldsi')
+n <- get_tsn('Aotus dindensis')# not found.
 browseURL(attr(n, 'uri'))
 
-write.csv(names3, file = "shp_phylo_fossil_full_join.txt")
+n2 <- get_tsn('Alouatta coibensis')# invalid name (= Alouatta palliata)
+browseURL(attr(n2, 'uri'))
+
+n3 <- get_tsn('Aotus azarae')# valid name.
+browseURL(attr(n3, 'uri'))
+
+n3 <- get_tsn('Aotus azarae')# valid name.
+browseURL(attr(n3, 'uri'))
+
+n4 <- get_tsn('Aotus griseimembra')# valid name.
+browseURL(attr(n4, 'uri'))
+
+n5 <- get_tsn('Aotus infulatus')# invalid name (= Aotus azarae)
+browseURL(attr(n5, 'uri'))
+
+n6 <- get_tsn('Aotus lemurinus')# valid name.
+browseURL(attr(n6, 'uri'))
+
+n7 <- get_tsn('Aotus nancymaae')# invalid name (= Aotus nancymai)
+browseURL(attr(n7, 'uri'))
+
+n8 <- get_tsn('Aotus nigriceps')# valid name.
+browseURL(attr(n8, 'uri'))
+
+n9 <- get_tsn('Aotus trivirgatus')# valid name.
+browseURL(attr(n9, 'uri'))
+
+n10 <- get_tsn('Aotus vociferans')# valid name.
+browseURL(attr(n10, 'uri'))
+
+n11 <- get_tsn('Cacajao ayresi')# valid name.
+browseURL(attr(n11, 'uri'))
+
+n12 <- get_tsn('Cacajao melanocephalus')# valid name.
+browseURL(attr(n12, 'uri'))
+
+n13 <- get_tsn('Cebus capucinus')# valid name.
+browseURL(attr(n13, 'uri'))
+
+n14 <- get_tsn('Cebus olivaceus')# valid name.
+browseURL(attr(n14, 'uri'))
+
+n15 <- get_tsn('Chiropotes israelita')# valid name.
+browseURL(attr(n15, 'uri'))
+
+n16 <- get_tsn('Pithecia irrorata')# valid name.
+browseURL(attr(n16, 'uri'))
+
+n17 <- get_tsn('Pithecia monachus')# valid name.
+browseURL(attr(n17, 'uri'))
+
+n18 <- get_tsn('Saguinus graellsi')# invalid name (=Leontocebus nigricollis graellsi)
+browseURL(attr(n18, 'uri'))
 
 ####correções
 #corrigi Callicebus hoffmannsi na filogenia
