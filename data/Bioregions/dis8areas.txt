@@ -11,7 +11,7 @@ Alouatta_pigra						1					1
 Alouatta_sara	1										1	
 Alouatta_seniculus	1										1	
 Antillothrix_bernensis										1	1	
-Aotus_azarae											0	valid
+Aotus_azarae	1	1		1							0	
 Aotus_dindensis											0	Not found
 Aotus_griseimembra											0	valid
 Aotus_infulatus											0	invalid name (=azarae)
