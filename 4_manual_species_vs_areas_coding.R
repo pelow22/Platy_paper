@@ -1,4 +1,4 @@
-#Coding points into areas
+#Manual coding points into areas
 library(udunits2)
 library(ggplot2)
 library(sp)
@@ -27,3 +27,16 @@ ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), 
              aes(x = decimalLongitude, y = decimalLatitude), colour = "blue", size = 1)+
   theme_bw()
 
+#sp2 = Aotus griseimembra
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp2_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp3 = Aotus lemurinus
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp3_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()

@@ -13,9 +13,9 @@ Alouatta_seniculus	1										1
 Antillothrix_bernensis										1	1	
 Aotus_azarae	1	1		1							0	
 Aotus_dindensis											0	Not found
-Aotus_griseimembra											0	valid
+Aotus_griseimembra	1						1				0	
 Aotus_infulatus											0	invalid name (=azarae)
-Aotus_lemurinus											0	valid
+Aotus_lemurinus	1			1			1				0	
 Aotus_nancymaae											0	invalid name (= Aotus nancymai)
 Aotus_nigriceps											0	valid
 Aotus_trivirgatus											0	valid

@@ -7,6 +7,7 @@ library(rgbif)
 library(sp)
 library(rgdal)
 library(magrittr)
+library(bRacatus)
 
 #Visualize the data on a map
 wm <- borders("world", colour="gray50", fill="gray50")
@@ -26,6 +27,8 @@ ggplot()+ coord_fixed()+ wm +
              colour = "blue", size = 0.5)+
     theme_bw()
 
+plotOcc(sp1)
+plotOcc(sp1_splk)
 #Wrapper function. The clean_coordinates function is a wrapper around a large set of automated cleaning steps to flag errors
 
 ##convert country code from ISO2c to ISO3c
@@ -43,11 +46,12 @@ plot(sp1_flags, lon = "decimalLongitude", lat = "decimalLatitude")
 
 #flagged rows
 sp1_fl <- sp1[!sp1_flags$.summary,]
+plotOcc(sp1_fl)
 
 #Cleaned data frame.TO USE
 sp1_cl <- sp1[sp1_flags$.summary,]
-
-
+plotOcc(sp1_cl)
+write.csv(sp1_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Aotus_azarae.csv")
 
 ########################################################sp2 = Aotus griseimembra
 
