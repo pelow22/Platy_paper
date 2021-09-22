@@ -85,7 +85,7 @@ sp2_fl <- sp2[!sp2_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp2_cl <- sp2[sp2_flags$.summary,]
-
+write.csv(sp2_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Aotus_griseimembra.csv")
 
 ###########################################################sp3 = Aotus lemurinus
 
@@ -118,6 +118,8 @@ sp3_fl <- sp3[!sp3_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp3_cl <- sp3[sp3_flags$.summary,]
+
+write.csv(sp3_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Aotus_lemurinus.csv")
 
 ##############################################################sp5 = Aotus nigriceps
 
@@ -154,6 +156,8 @@ sp5_fl <- sp5[!sp5_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp5_cl <- sp5[sp5_flags$.summary,]
+write.csv(sp5_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Aotus_nigriceps.csv")
+
 
 ##############################################################sp6 = Aotus trivirgatus
 
@@ -191,7 +195,7 @@ sp6_fl <- sp6[!sp6_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp6_cl <- sp6[sp6_flags$.summary,]
-
+write.csv(sp6_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Aotus_trivirgatus.csv")
 
 ##############################################################sp8 = Cacajao melanocephalus
 
@@ -229,6 +233,7 @@ sp8_fl <- sp8[!sp8_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp8_cl <- sp8[sp8_flags$.summary,]
+write.csv(sp8_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Cacajao_melanocephalus.csv")
 
 
 ##############################################################sp9 = Cebus capucinus
@@ -267,6 +272,7 @@ sp9_fl <- sp9[!sp9_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp9_cl <- sp9[sp9_flags$.summary,]
+write.csv(sp9_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Cebus_capucinus.csv")
 
 #########################################################sp10 = Cebus olivaceus
 
@@ -304,6 +310,7 @@ sp10_fl <- sp10[!sp10_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp10_cl <- sp10[sp10_flags$.summary,]
+write.csv(sp10_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Cebus_olivacius.csv")
 
 #########################################################sp12 = Pithecia irrorata
 
@@ -341,9 +348,9 @@ sp12_fl <- sp12[!sp12_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp12_cl <- sp12[sp12_flags$.summary,]
+write.csv(sp12_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Pithecia_irrorata.csv")
 
-
-######################################################sp13 = 	Pithecia monachus
+######################################################sp13 = Pithecia monachus
 
 #Preparing data
 sp13 <- sp13[["data"]] #GBIF
@@ -379,6 +386,7 @@ sp13_fl <- sp13[!sp13_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp13_cl <- sp13[sp13_flags$.summary,]
+write.csv(sp13_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Pithecia_monachus.csv")
 
 ##############sp14 = Leontocebus nigricollis (searched for Saguinus nigricollis)
 
@@ -416,3 +424,75 @@ sp14_fl <- sp14[!sp14_flags$.summary,]
 
 #Cleaned data frame.TO USE
 sp14_cl <- sp14[sp14_flags$.summary,]
+write.csv(sp14_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/cleaned_occurrences_Saguinus_nigricollis.csv")
+
+##############################################sp4 = Aotus nancymai
+#Preparing data
+sp4 <- sp4[["11215067"]][["data"]] #GBIF
+
+#plot data to get an overview
+ggplot()+ coord_fixed()+ wm +
+  geom_point(data = sp4, aes(x = decimalLongitude, y = decimalLatitude),
+             colour = "darkred", size = 0.5)+
+  
+  theme_bw()
+#
+#Wrapper function. The clean_coordinates function is a wrapper around a large set of automated cleaning steps to flag errors
+
+##convert country code from ISO2c to ISO3c
+sp4$countryCode <-  countrycode(sp4$countryCode, origin =  'iso2c', destination = 'iso3c')
+sp4 <- data.frame(sp4)
+sp4_flags <- clean_coordinates(x = sp4,
+                                lon = "decimalLongitude",
+                                lat = "decimalLatitude",
+                                countries = "countryCode",
+                                species = "species",
+                                tests = c("capitals", "centroids", "equal","gbif", "institutions",
+                                          "zeros", "countries"))
+summary(sp4_flags)
+plot(sp4_flags, lon = "decimalLongitude", lat = "decimalLatitude")
+
+#flagged rows
+sp4_fl <- sp4[!sp4_flags$.summary,]
+
+#Cleaned data frame.TO USE
+sp4_cl <- sp4[sp4_flags$.summary,]
+write.csv(sp4, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/2_cleaned_data/cleaned_occurrences_Aotus_nancymai.csv")
+
+##############################################################sp15 = Aotus vociferans
+
+#Preparing data
+sp15 <- sp15[["data"]] #GBIF
+sp15_splk <- transform(sp15_splk, decimalLongitude = as.numeric(decimalLongitude), 
+                      decimalLatitude = as.numeric(decimalLatitude)) #SpeciesLink
+
+#plot data to get an overview
+ggplot()+ coord_fixed()+ wm +
+  geom_point(data = sp15, aes(x = decimalLongitude, y = decimalLatitude),
+             colour = "darkred", size = 0.5)+
+  geom_point(data = sp15_splk, aes(x = decimalLongitude, y = decimalLatitude),
+             colour = "blue", size = 0.5)+
+  theme_bw()
+
+#Wrapper function. The clean_coordinates function is a wrapper around a large set of automated cleaning steps to flag errors
+
+##convert country code from ISO2c to ISO3c
+sp15$countryCode <-  countrycode(sp15$countryCode, origin =  'iso2c', destination = 'iso3c')
+sp15 <- data.frame(sp15)
+sp15_flags <- clean_coordinates(x = sp15,
+                               lon = "decimalLongitude",
+                               lat = "decimalLatitude",
+                               countries = "countryCode",
+                               species = "species",
+                               tests = c("capitals", "centroids", "equal","gbif", "institutions",
+                                         "zeros", "countries"))
+summary(sp15_flags)
+plot(sp15_flags, lon = "decimalLongitude", lat = "decimalLatitude")
+
+#flagged rows
+sp15_fl <- sp15[!sp15_flags$.summary,]
+
+#Cleaned data frame.TO USE
+sp15_cl <- sp15[sp15_flags$.summary,]
+write.csv(sp15_cl, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Splink_gbif_data/2_cleaned_data/cleaned_occurrences_Aotus_vociferans.csv")
+

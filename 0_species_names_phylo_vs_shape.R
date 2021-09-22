@@ -83,7 +83,7 @@ names3 <- full_join(names, fossil, by = c("tip.label" = "binomial"),
 write.csv(names3, file = "shp_phylo_fossil_full_join.txt")
 
 #check the spelling of a species
-n <- get_tsn('Aotus dindensis')# not found.
+n <- get_tsn('Aotus dindensis')# not found. Check fossil table.
 browseURL(attr(n, 'uri'))
 
 n2 <- get_tsn('Alouatta coibensis')# invalid name (= Alouatta palliata)
@@ -137,9 +137,5 @@ browseURL(attr(n16, 'uri'))
 n17 <- get_tsn('Pithecia monachus')# valid name.
 browseURL(attr(n17, 'uri'))
 
-n18 <- get_tsn('Saguinus graellsi')# invalid name (=Leontocebus nigricollis graellsi)
+n18 <- get_tsn('Saguinus graellsi')# invalid name (= Saguinus nigricollis)
 browseURL(attr(n18, 'uri'))
-
-####correções
-#corrigi Callicebus hoffmannsi na filogenia
-# Aloutta_seniculus no shp aparece com subespécies.

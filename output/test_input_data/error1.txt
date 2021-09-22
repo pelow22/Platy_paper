@@ -1,0 +1,32 @@
+[1] "Note: tipranges_to_tip_condlikes_of_data_on_each_state() is converting a states_list with (0-based) numbers to the equivalent areanames"
+
+check_BioGeoBEARS_run() says: FATAL ERROR in check_BioGeoBEARS_run(): the input tree has branchlengths <= 0, at these nodes:
+
+ 97 
+
+...And, at these edge numbers:
+
+ 199 
+
+  nodenums branchlengths edge_nums
+1       97             0       199
+
+This can sometimes happen in e.g. MCC (majority clade consensus) trees output by BEAST's TreeAnnotator.
+You must fix the Newick file. See ?check_BioGeoBEARS_run, and PhyloWiki, for comments. One option is to try impose_min_brlen() and then write the tree to a file.
+
+check_BioGeoBEARS_run() says: FATAL ERROR in check_BioGeoBEARS_run(): the input tree has branchlengths <= 0, at these nodes:
+
+ 97 
+
+...And, at these edge numbers:
+
+ 199 
+
+Error in check_BioGeoBEARS_run(BioGeoBEARS_run_object) : 
+check_BioGeoBEARS_run() says: FATAL ERROR in check_BioGeoBEARS_run(): the input tree has branchlengths <= 0, at these nodes:
+
+ 97 
+
+...And, at these edge numbers:
+
+ 199 

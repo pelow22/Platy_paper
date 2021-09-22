@@ -40,3 +40,73 @@ ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), 
   geom_point(data = sp3_cl,
              aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
   theme_bw()
+
+#sp5 = Aotus nigriceps
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp5_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp6 = Aotus trivirgatus
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp6_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp8 = Cacajao melanocephalus
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp8_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp9 = Cebus capucinus
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp9_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp10 = Cebus olivaceus
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp10_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp12 = Pithecia irrorata
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp12_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp13 = Pithecia monachus
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp13_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp14 = Saguinus nigricollis
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp14_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp4 = Aotus nancymai
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp4,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()
+
+#sp15 = Aotus vociferans
+ggplot()+ coord_fixed() + wm + coord_sf(xlim = c(-100, -30), ylim = c(-35, 22), expand = FALSE) +
+  geom_polygon(data = areas.df, aes(x = long, y = lat, group = group, fill = bioregio)) +
+  geom_point(data = sp15_cl,
+             aes(x = decimalLongitude, y = decimalLatitude), colour = "darkred", size = 1)+
+  theme_bw()

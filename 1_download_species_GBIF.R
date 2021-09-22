@@ -22,10 +22,12 @@ sp3 <- occ_search(name_suggest(q = species_search[3,1], rank = "species")[["data
 sp3 <- sp3 %>% occ_issues(-bri, -ccm, -cdiv, -cdout, -cdrepf, -cucdmis, gass84, -gdativ)
 print(sp3)
 
-#sp4 = Aotus nancymai NODATA returned.
+#sp4 = Aotus nancymai
 name_suggest(q = species_search[4,1], rank = "species")
 n4 <- name_lookup(q = species_search[4,1], rank = "species")
 sp4 <- occ_search(n4[["data"]][["key"]])
+sp4 <- sp4 %>% occ_issues(-bri, -ccm, -cdiv, -cdout, -cdrepf, -cucdmis, gass84, -gdativ)
+print(sp4)
 
 #sp5 = Aotus nigriceps
 sp5 <- occ_search(name_suggest(q = species_search[5,1], rank = "species")[["data"]][["key"]], 
@@ -41,6 +43,8 @@ print(sp6)
 
 #sp7 = Cacajao ayresi NODATA returned
 sp7 <- occ_search(name_suggest(q = species_search[7,1], rank = "species")[["data"]][["key"]], 
+                  hasCoordinate = TRUE, limit = 5000)
+sp7 <- occ_search(name_suggest(q = "Cacajao ayresi", rank = "species")[["data"]][["key"]], 
                   hasCoordinate = TRUE, limit = 5000)
 print(sp7)
 
@@ -85,6 +89,12 @@ sp14 <- occ_search(name_suggest(q = species_search[14,1], rank = "species")[["da
                    hasCoordinate = TRUE, limit = 5000)
 sp14 <- sp14 %>% occ_issues(-bri, -ccm, -cdiv, -cdout, -cdrepf, -cucdmis, gass84, -gdativ)
 print(sp14)
+
+#sp15 = Aotus vociferans
+sp15 <- occ_search(name_suggest(q = species_search[15,1], rank = "species")[["data"]][["key"]], 
+                  hasCoordinate = TRUE, limit = 5000)
+sp15 <- sp15 %>% occ_issues(-bri, -ccm, -cdiv, -cdout, -cdrepf, -cucdmis, gass84, -gdativ)
+print(sp15)
 
 ####################Cleaning data by GBIF issues
 gi <- gbif_issues()

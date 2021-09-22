@@ -60,3 +60,7 @@ print(sp13_splk)
 #sp14 = Leontocebus nigricollis (searched for Saguinus nigricollis)
 sp14_splk <- rspeciesLink(species = "Saguinus nigricollis", Coordinates = "Yes", save = FALSE)
 print(sp14_splk)
+
+#sp15 = Aotus vociferans
+sp15_splk <- rspeciesLink(species = species_search[15,1], Coordinates = "Yes", save = FALSE)
+print(sp15_splk)
