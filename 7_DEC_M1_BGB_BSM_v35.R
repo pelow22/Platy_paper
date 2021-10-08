@@ -39,7 +39,7 @@
 	#analysis name to be appended to output files
 		filename <- "DEC_M1_unconstrained"
 	#name of the output directory	
-		dir_name <- "DEC_M1"
+		dir_name <- "DEC_M1t6"
 		if(file.exists(dir_name)==FALSE) dir.create(dir_name)
 	#logfile
 		sink(paste(dir_name,"/",filename, "_logfile.txt", sep=""), append=TRUE, split=TRUE)
@@ -97,9 +97,7 @@
 			# this will tag the transitions table in 3 rows per node of interest (NoI):
 			# ancestor -> NoI, NoI -> daughter1, NoI -> daughter2
 			# if your nodes of interested are nested within each other, list them from most inclusive to less inclusive
-				nodes_of_interest <- list(
-					c("")
-				)
+				nodes_of_interest <- list()
 				names(nodes_of_interest) <- c("")
 		# defines outgroup; this is important if you want to include outgroups for ancestral range estimation
 			# but exclude them from the counts of transitions and lineages through time
@@ -140,8 +138,8 @@
 			
 	### PLOTTING OPTIONS
 		#dimensions for the pdf output
-			pdf_w <- 10
-			pdf_h <- 15
+			pdf_w <- 20
+			pdf_h <- 30
 		#plot error intervals in graphic of lineages through time by area, or not
 			plot_95 = TRUE
 		#plot figures for individual stochastic maps; TRUE is slower and results in MANY files! 
@@ -150,10 +148,10 @@
 			plot_LTT <- TRUE
 				# you can use n_maps_count_LTT to use only some of the maps for counting lineages through time
 				# this speeds things considerably
-					n_maps_count_LTT = 5
+					n_maps_count_LTT = 5 #5
 
 	### saves a file with all the options for your reference
-	### perhaps it is a good idea to check this carefully before proceding to the next analyses
+	### perhaps it is a good idea to check this carefully before procceding to the next analyses
 		all_options <- c(filename, dir_name, run_BGB, sample_trees, run_BSM, n_stochastic_maps, plot_BSM, plot_LTT, n_maps_count_LTT, n_cores, optimization, posterior_trees_fn, n_trees, paste(outgroup_taxa, collapse=","), geogfn, n_digits_age, time_period_size, DIVALIKE, BAYAREALIKE, J_founder_event, time_stratified, time_stratified_fn, dispersal_matrix, dispersal_matrix_fn, area_adjacency, area_adjacency_fn, distance_matrix, distance_matrix_fn, areas_allowed, areas_allowed_fn, num_areas, max_observed_range_size, max_range_size, num_states, pdf_w, pdf_h)
 		options <- matrix(all_options, ncol = 1, nrow = length(all_options))
 		rownames(options) = c("filename", "dir_name", "run_BGB", "sample_trees", "run_BSM", "n_stochastic_maps", "plot_BSM", "plot_LTT", "n_maps_count_LTT", "n_cores", "optimx", "posterior_trees_fn", "n_trees", "outgroup_taxa", "geogfn", "n_digits_age", "time_period_size", "DIVALIKE", "BAYAREALIKE", "J_founder_event", "time_stratified", "time_stratified_fn", "dispersal_matrix", "dispersal_matrix_fn", "area_adjacency", "area_adjacency_fn", "distance_matrix", "distance_matrix_fn", "areas_allowed", "areas_allowed_fn", "num_areas", "max_observed_range_size", "max_range_size", "num_states", "pdf_w", "pdf_h")
@@ -168,7 +166,7 @@
 		BioGeoBEARS_run_object = define_BioGeoBEARS_run() 					# Initialize a default model
 		BioGeoBEARS_run_object$geogfn = geogfn 								# Give BioGeoBEARS the location of the geography text file
 		BioGeoBEARS_run_object$max_range_size = max_range_size 				# Input the maximum range size
-		BioGeoBEARS_run_object$min_branchlength = 0.000001 					# Min to treat tip as a direct ancestor (no speciation event)
+		BioGeoBEARS_run_object$min_branchlength = 0.000000001 					# 0.000001 Min to treat tip as a direct ancestor (no speciation event)
 		BioGeoBEARS_run_object$include_null_range = TRUE 					# set to FALSE for e.g. DEC* model, DEC*+J, etc.
 		BioGeoBEARS_run_object$on_NaN_error = -1e50 						# returns very low lnL if parameters produce NaN error (underflow check)
 		BioGeoBEARS_run_object$speedup = TRUE          						# shorcuts to speed ML search; use FALSE if worried (e.g. >3 params)

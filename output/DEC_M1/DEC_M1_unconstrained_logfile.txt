@@ -1,4 +1,0 @@
-[1][1] "Total time elapsed:" "Total time elapsed:"
-
-Time difference of Time difference of 3.72183.7218  secssecs
-

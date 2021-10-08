@@ -5,6 +5,18 @@ library(geiger)
 
 setwd("D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/output")
 
+trfn = "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Phylogenies/phylo_Platy_Silvestro_2019_namesOK.txt"
+tr = read.nexus(trfn)
+plot(tr) #121 tips
+
+nodelabels(tr)
+
+# Are there 0-length branches?
+min(tr[["STATE_53800"]][["edge.length"]])
+
+tr_teste = impose_min_brlen(phy = tr, min_brlen = 0.01, leave_BL0_terminals = TRUE)
+min(tr_teste[["STATE_53800"]][["edge.length"]])
+
 ############################Tree preparation
 #load phylogenies
 trfn = "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Phylogenies/phylo_Platy_Silvestro_2019_namesOK.txt"
@@ -29,7 +41,7 @@ is.rooted.multiPhylo(tr_drop)
 #check tree branch lenghts
 tr_drop$STATE_574100$edge.length <= 0 #the input tree has branchlengths <= 0
 
-#change brlenghts# did not work!!
+#change brlenghts# did not run in check_BioGeoBEARS_run()
 #tr_drop_br <- lapply(X =tr_drop, FUN = impose_min_brlen)
 
 #modify branch lenghts (add 0.01 in all branches)

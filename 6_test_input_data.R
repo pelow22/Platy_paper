@@ -59,6 +59,10 @@ Sys.time() - start_time
 #Save outputs to disk
 save(resDEC, file = resfn)
 
+aic_values <- resDEC$total_loglikelihood
+write.csv(aic_values, "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/output/test_input_data/aic.txt")
+
+
 # Save the node states for visualization
 resDEC$ML_marginal_prob_each_state_at_branch_top_AT_node
 trtable = prt(tr, printflag = FALSE)

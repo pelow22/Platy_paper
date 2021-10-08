@@ -1,0 +1,927 @@
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 1"
+[1] "Corrected branch length of taxon 11 in tree 1"
+[1] "Corrected branch length of taxon 13 in tree 1"
+[1] "Corrected branch length of taxon 21 in tree 1"
+[1] "Corrected branch length of taxon 22 in tree 1"
+[1] "Corrected branch length of taxon 24 in tree 1"
+[1] "Corrected branch length of taxon 25 in tree 1"
+[1] "Corrected branch length of taxon 26 in tree 1"
+[1] "Corrected branch length of taxon 27 in tree 1"
+[1] "Corrected branch length of taxon 28 in tree 1"
+[1] "Corrected branch length of taxon 32 in tree 1"
+[1] "Corrected branch length of taxon 39 in tree 1"
+[1] "Corrected branch length of taxon 43 in tree 1"
+[1] "Corrected branch length of taxon 44 in tree 1"
+[1] "Corrected branch length of taxon 50 in tree 1"
+[1] "Corrected branch length of taxon 51 in tree 1"
+[1] "Corrected branch length of taxon 52 in tree 1"
+[1] "Corrected branch length of taxon 54 in tree 1"
+[1] "Corrected branch length of taxon 58 in tree 1"
+[1] "Corrected branch length of taxon 61 in tree 1"
+[1] "Corrected branch length of taxon 62 in tree 1"
+[1] "Corrected branch length of taxon 63 in tree 1"
+[1] "Corrected branch length of taxon 64 in tree 1"
+[1] "Corrected branch length of taxon 65 in tree 1"
+[1] "Corrected branch length of taxon 66 in tree 1"
+[1] "Corrected branch length of taxon 67 in tree 1"
+[1] "Corrected branch length of taxon 68 in tree 1"
+[1] "Corrected branch length of taxon 72 in tree 1"
+[1] "Corrected branch length of taxon 77 in tree 1"
+[1] "Corrected branch length of taxon 78 in tree 1"
+[1] "Corrected branch length of taxon 79 in tree 1"
+[1] "Corrected branch length of taxon 80 in tree 1"
+[1] "Corrected branch length of taxon 81 in tree 1"
+[1] "Corrected branch length of taxon 82 in tree 1"
+[1] "Corrected branch length of taxon 83 in tree 1"
+[1] "Corrected branch length of taxon 84 in tree 1"
+[1] "Corrected branch length of taxon 85 in tree 1"
+[1] "Corrected branch length of taxon 86 in tree 1"
+[1] "Corrected branch length of taxon 87 in tree 1"
+[1] "Corrected branch length of taxon 88 in tree 1"
+[1] "Corrected branch length of taxon 89 in tree 1"
+[1] "Corrected branch length of taxon 91 in tree 1"
+[1] "Corrected branch length of taxon 110 in tree 1"
+[1] "Corrected branch length of taxon 111 in tree 1"
+[1] "Corrected branch length of taxon 112 in tree 1"
+[1] "Corrected branch length of taxon 113 in tree 1"
+[1] "Corrected branch length of taxon 114 in tree 1"
+[1] "Corrected branch length of taxon 115 in tree 1"
+[1] "Corrected branch length of taxon 116 in tree 1"
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 2"
+[1] "Corrected branch length of taxon 2 in tree 2"
+[1] "Corrected branch length of taxon 4 in tree 2"
+[1] "Corrected branch length of taxon 7 in tree 2"
+[1] "Corrected branch length of taxon 8 in tree 2"
+[1] "Corrected branch length of taxon 11 in tree 2"
+[1] "Corrected branch length of taxon 12 in tree 2"
+[1] "Corrected branch length of taxon 13 in tree 2"
+[1] "Corrected branch length of taxon 14 in tree 2"
+[1] "Corrected branch length of taxon 15 in tree 2"
+[1] "Corrected branch length of taxon 16 in tree 2"
+[1] "Corrected branch length of taxon 17 in tree 2"
+[1] "Corrected branch length of taxon 18 in tree 2"
+[1] "Corrected branch length of taxon 19 in tree 2"
+[1] "Corrected branch length of taxon 20 in tree 2"
+[1] "Corrected branch length of taxon 21 in tree 2"
+[1] "Corrected branch length of taxon 22 in tree 2"
+[1] "Corrected branch length of taxon 23 in tree 2"
+[1] "Corrected branch length of taxon 24 in tree 2"
+[1] "Corrected branch length of taxon 25 in tree 2"
+[1] "Corrected branch length of taxon 26 in tree 2"
+[1] "Corrected branch length of taxon 27 in tree 2"
+[1] "Corrected branch length of taxon 28 in tree 2"
+[1] "Corrected branch length of taxon 29 in tree 2"
+[1] "Corrected branch length of taxon 30 in tree 2"
+[1] "Corrected branch length of taxon 31 in tree 2"
+[1] "Corrected branch length of taxon 32 in tree 2"
+[1] "Corrected branch length of taxon 33 in tree 2"
+[1] "Corrected branch length of taxon 34 in tree 2"
+[1] "Corrected branch length of taxon 35 in tree 2"
+[1] "Corrected branch length of taxon 36 in tree 2"
+[1] "Corrected branch length of taxon 37 in tree 2"
+[1] "Corrected branch length of taxon 38 in tree 2"
+[1] "Corrected branch length of taxon 39 in tree 2"
+[1] "Corrected branch length of taxon 40 in tree 2"
+[1] "Corrected branch length of taxon 41 in tree 2"
+[1] "Corrected branch length of taxon 42 in tree 2"
+[1] "Corrected branch length of taxon 43 in tree 2"
+[1] "Corrected branch length of taxon 44 in tree 2"
+[1] "Corrected branch length of taxon 45 in tree 2"
+[1] "Corrected branch length of taxon 50 in tree 2"
+[1] "Corrected branch length of taxon 51 in tree 2"
+[1] "Corrected branch length of taxon 52 in tree 2"
+[1] "Corrected branch length of taxon 53 in tree 2"
+[1] "Corrected branch length of taxon 54 in tree 2"
+[1] "Corrected branch length of taxon 58 in tree 2"
+[1] "Corrected branch length of taxon 59 in tree 2"
+[1] "Corrected branch length of taxon 60 in tree 2"
+[1] "Corrected branch length of taxon 61 in tree 2"
+[1] "Corrected branch length of taxon 62 in tree 2"
+[1] "Corrected branch length of taxon 63 in tree 2"
+[1] "Corrected branch length of taxon 64 in tree 2"
+[1] "Corrected branch length of taxon 65 in tree 2"
+[1] "Corrected branch length of taxon 66 in tree 2"
+[1] "Corrected branch length of taxon 67 in tree 2"
+[1] "Corrected branch length of taxon 68 in tree 2"
+[1] "Corrected branch length of taxon 69 in tree 2"
+[1] "Corrected branch length of taxon 70 in tree 2"
+[1] "Corrected branch length of taxon 71 in tree 2"
+[1] "Corrected branch length of taxon 72 in tree 2"
+[1] "Corrected branch length of taxon 77 in tree 2"
+[1] "Corrected branch length of taxon 78 in tree 2"
+[1] "Corrected branch length of taxon 79 in tree 2"
+[1] "Corrected branch length of taxon 80 in tree 2"
+[1] "Corrected branch length of taxon 81 in tree 2"
+[1] "Corrected branch length of taxon 82 in tree 2"
+[1] "Corrected branch length of taxon 83 in tree 2"
+[1] "Corrected branch length of taxon 84 in tree 2"
+[1] "Corrected branch length of taxon 85 in tree 2"
+[1] "Corrected branch length of taxon 86 in tree 2"
+[1] "Corrected branch length of taxon 87 in tree 2"
+[1] "Corrected branch length of taxon 88 in tree 2"
+[1] "Corrected branch length of taxon 89 in tree 2"
+[1] "Corrected branch length of taxon 91 in tree 2"
+[1] "Corrected branch length of taxon 92 in tree 2"
+[1] "Corrected branch length of taxon 93 in tree 2"
+[1] "Corrected branch length of taxon 94 in tree 2"
+[1] "Corrected branch length of taxon 96 in tree 2"
+[1] "Corrected branch length of taxon 97 in tree 2"
+[1] "Corrected branch length of taxon 98 in tree 2"
+[1] "Corrected branch length of taxon 99 in tree 2"
+[1] "Corrected branch length of taxon 100 in tree 2"
+[1] "Corrected branch length of taxon 101 in tree 2"
+[1] "Corrected branch length of taxon 102 in tree 2"
+[1] "Corrected branch length of taxon 105 in tree 2"
+[1] "Corrected branch length of taxon 110 in tree 2"
+[1] "Corrected branch length of taxon 111 in tree 2"
+[1] "Corrected branch length of taxon 112 in tree 2"
+[1] "Corrected branch length of taxon 113 in tree 2"
+[1] "Corrected branch length of taxon 114 in tree 2"
+[1] "Corrected branch length of taxon 115 in tree 2"
+[1] "Corrected branch length of taxon 116 in tree 2"
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 3"
+[1] "Corrected branch length of taxon 11 in tree 3"
+[1] "Corrected branch length of taxon 13 in tree 3"
+[1] "Corrected branch length of taxon 28 in tree 3"
+[1] "Corrected branch length of taxon 32 in tree 3"
+[1] "Corrected branch length of taxon 39 in tree 3"
+[1] "Corrected branch length of taxon 43 in tree 3"
+[1] "Corrected branch length of taxon 50 in tree 3"
+[1] "Corrected branch length of taxon 51 in tree 3"
+[1] "Corrected branch length of taxon 52 in tree 3"
+[1] "Corrected branch length of taxon 54 in tree 3"
+[1] "Corrected branch length of taxon 58 in tree 3"
+[1] "Corrected branch length of taxon 61 in tree 3"
+[1] "Corrected branch length of taxon 62 in tree 3"
+[1] "Corrected branch length of taxon 63 in tree 3"
+[1] "Corrected branch length of taxon 64 in tree 3"
+[1] "Corrected branch length of taxon 65 in tree 3"
+[1] "Corrected branch length of taxon 68 in tree 3"
+[1] "Corrected branch length of taxon 72 in tree 3"
+[1] "Corrected branch length of taxon 77 in tree 3"
+[1] "Corrected branch length of taxon 78 in tree 3"
+[1] "Corrected branch length of taxon 79 in tree 3"
+[1] "Corrected branch length of taxon 80 in tree 3"
+[1] "Corrected branch length of taxon 81 in tree 3"
+[1] "Corrected branch length of taxon 82 in tree 3"
+[1] "Corrected branch length of taxon 83 in tree 3"
+[1] "Corrected branch length of taxon 84 in tree 3"
+[1] "Corrected branch length of taxon 85 in tree 3"
+[1] "Corrected branch length of taxon 89 in tree 3"
+[1] "Corrected branch length of taxon 110 in tree 3"
+[1] "Corrected branch length of taxon 111 in tree 3"
+[1] "Corrected branch length of taxon 112 in tree 3"
+[1] "Corrected branch length of taxon 113 in tree 3"
+[1] "Corrected branch length of taxon 114 in tree 3"
+[1] "Corrected branch length of taxon 115 in tree 3"
+[1] "Corrected branch length of taxon 116 in tree 3"
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 4"
+[1] "Corrected branch length of taxon 11 in tree 4"
+[1] "Corrected branch length of taxon 13 in tree 4"
+[1] "Corrected branch length of taxon 16 in tree 4"
+[1] "Corrected branch length of taxon 18 in tree 4"
+[1] "Corrected branch length of taxon 21 in tree 4"
+[1] "Corrected branch length of taxon 22 in tree 4"
+[1] "Corrected branch length of taxon 25 in tree 4"
+[1] "Corrected branch length of taxon 26 in tree 4"
+[1] "Corrected branch length of taxon 27 in tree 4"
+[1] "Corrected branch length of taxon 28 in tree 4"
+[1] "Corrected branch length of taxon 32 in tree 4"
+[1] "Corrected branch length of taxon 44 in tree 4"
+[1] "Corrected branch length of taxon 50 in tree 4"
+[1] "Corrected branch length of taxon 51 in tree 4"
+[1] "Corrected branch length of taxon 52 in tree 4"
+[1] "Corrected branch length of taxon 54 in tree 4"
+[1] "Corrected branch length of taxon 58 in tree 4"
+[1] "Corrected branch length of taxon 61 in tree 4"
+[1] "Corrected branch length of taxon 62 in tree 4"
+[1] "Corrected branch length of taxon 63 in tree 4"
+[1] "Corrected branch length of taxon 64 in tree 4"
+[1] "Corrected branch length of taxon 65 in tree 4"
+[1] "Corrected branch length of taxon 68 in tree 4"
+[1] "Corrected branch length of taxon 69 in tree 4"
+[1] "Corrected branch length of taxon 70 in tree 4"
+[1] "Corrected branch length of taxon 71 in tree 4"
+[1] "Corrected branch length of taxon 72 in tree 4"
+[1] "Corrected branch length of taxon 77 in tree 4"
+[1] "Corrected branch length of taxon 78 in tree 4"
+[1] "Corrected branch length of taxon 79 in tree 4"
+[1] "Corrected branch length of taxon 80 in tree 4"
+[1] "Corrected branch length of taxon 81 in tree 4"
+[1] "Corrected branch length of taxon 82 in tree 4"
+[1] "Corrected branch length of taxon 83 in tree 4"
+[1] "Corrected branch length of taxon 84 in tree 4"
+[1] "Corrected branch length of taxon 85 in tree 4"
+[1] "Corrected branch length of taxon 89 in tree 4"
+[1] "Corrected branch length of taxon 93 in tree 4"
+[1] "Corrected branch length of taxon 96 in tree 4"
+[1] "Corrected branch length of taxon 99 in tree 4"
+[1] "Corrected branch length of taxon 110 in tree 4"
+[1] "Corrected branch length of taxon 111 in tree 4"
+[1] "Corrected branch length of taxon 112 in tree 4"
+[1] "Corrected branch length of taxon 113 in tree 4"
+[1] "Corrected branch length of taxon 114 in tree 4"
+[1] "Corrected branch length of taxon 115 in tree 4"
+[1] "Corrected branch length of taxon 116 in tree 4"
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 5"
+[1] "Corrected branch length of taxon 11 in tree 5"
+[1] "Corrected branch length of taxon 13 in tree 5"
+[1] "Corrected branch length of taxon 28 in tree 5"
+[1] "Corrected branch length of taxon 32 in tree 5"
+[1] "Corrected branch length of taxon 50 in tree 5"
+[1] "Corrected branch length of taxon 51 in tree 5"
+[1] "Corrected branch length of taxon 54 in tree 5"
+[1] "Corrected branch length of taxon 58 in tree 5"
+[1] "Corrected branch length of taxon 61 in tree 5"
+[1] "Corrected branch length of taxon 62 in tree 5"
+[1] "Corrected branch length of taxon 63 in tree 5"
+[1] "Corrected branch length of taxon 64 in tree 5"
+[1] "Corrected branch length of taxon 65 in tree 5"
+[1] "Corrected branch length of taxon 68 in tree 5"
+[1] "Corrected branch length of taxon 72 in tree 5"
+[1] "Corrected branch length of taxon 77 in tree 5"
+[1] "Corrected branch length of taxon 78 in tree 5"
+[1] "Corrected branch length of taxon 79 in tree 5"
+[1] "Corrected branch length of taxon 80 in tree 5"
+[1] "Corrected branch length of taxon 81 in tree 5"
+[1] "Corrected branch length of taxon 82 in tree 5"
+[1] "Corrected branch length of taxon 83 in tree 5"
+[1] "Corrected branch length of taxon 84 in tree 5"
+[1] "Corrected branch length of taxon 85 in tree 5"
+[1] "Corrected branch length of taxon 89 in tree 5"
+[1] "Corrected branch length of taxon 110 in tree 5"
+[1] "Corrected branch length of taxon 111 in tree 5"
+[1] "Corrected branch length of taxon 112 in tree 5"
+[1] "Corrected branch length of taxon 113 in tree 5"
+[1] "Corrected branch length of taxon 114 in tree 5"
+[1] "Corrected branch length of taxon 115 in tree 5"
+[1] "Corrected branch length of taxon 116 in tree 5"
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 6"
+[1] "Corrected branch length of taxon 2 in tree 6"
+[1] "Corrected branch length of taxon 3 in tree 6"
+[1] "Corrected branch length of taxon 4 in tree 6"
+[1] "Corrected branch length of taxon 6 in tree 6"
+[1] "Corrected branch length of taxon 7 in tree 6"
+[1] "Corrected branch length of taxon 8 in tree 6"
+[1] "Corrected branch length of taxon 9 in tree 6"
+[1] "Corrected branch length of taxon 11 in tree 6"
+[1] "Corrected branch length of taxon 12 in tree 6"
+[1] "Corrected branch length of taxon 13 in tree 6"
+[1] "Corrected branch length of taxon 14 in tree 6"
+[1] "Corrected branch length of taxon 15 in tree 6"
+[1] "Corrected branch length of taxon 16 in tree 6"
+[1] "Corrected branch length of taxon 17 in tree 6"
+[1] "Corrected branch length of taxon 18 in tree 6"
+[1] "Corrected branch length of taxon 19 in tree 6"
+[1] "Corrected branch length of taxon 20 in tree 6"
+[1] "Corrected branch length of taxon 21 in tree 6"
+[1] "Corrected branch length of taxon 22 in tree 6"
+[1] "Corrected branch length of taxon 23 in tree 6"
+[1] "Corrected branch length of taxon 24 in tree 6"
+[1] "Corrected branch length of taxon 25 in tree 6"
+[1] "Corrected branch length of taxon 26 in tree 6"
+[1] "Corrected branch length of taxon 27 in tree 6"
+[1] "Corrected branch length of taxon 28 in tree 6"
+[1] "Corrected branch length of taxon 29 in tree 6"
+[1] "Corrected branch length of taxon 30 in tree 6"
+[1] "Corrected branch length of taxon 31 in tree 6"
+[1] "Corrected branch length of taxon 32 in tree 6"
+[1] "Corrected branch length of taxon 33 in tree 6"
+[1] "Corrected branch length of taxon 34 in tree 6"
+[1] "Corrected branch length of taxon 35 in tree 6"
+[1] "Corrected branch length of taxon 36 in tree 6"
+[1] "Corrected branch length of taxon 37 in tree 6"
+[1] "Corrected branch length of taxon 38 in tree 6"
+[1] "Corrected branch length of taxon 39 in tree 6"
+[1] "Corrected branch length of taxon 40 in tree 6"
+[1] "Corrected branch length of taxon 41 in tree 6"
+[1] "Corrected branch length of taxon 42 in tree 6"
+[1] "Corrected branch length of taxon 43 in tree 6"
+[1] "Corrected branch length of taxon 44 in tree 6"
+[1] "Corrected branch length of taxon 45 in tree 6"
+[1] "Corrected branch length of taxon 46 in tree 6"
+[1] "Corrected branch length of taxon 47 in tree 6"
+[1] "Corrected branch length of taxon 48 in tree 6"
+[1] "Corrected branch length of taxon 49 in tree 6"
+[1] "Corrected branch length of taxon 50 in tree 6"
+[1] "Corrected branch length of taxon 51 in tree 6"
+[1] "Corrected branch length of taxon 52 in tree 6"
+[1] "Corrected branch length of taxon 53 in tree 6"
+[1] "Corrected branch length of taxon 54 in tree 6"
+[1] "Corrected branch length of taxon 55 in tree 6"
+[1] "Corrected branch length of taxon 56 in tree 6"
+[1] "Corrected branch length of taxon 57 in tree 6"
+[1] "Corrected branch length of taxon 58 in tree 6"
+[1] "Corrected branch length of taxon 59 in tree 6"
+[1] "Corrected branch length of taxon 60 in tree 6"
+[1] "Corrected branch length of taxon 61 in tree 6"
+[1] "Corrected branch length of taxon 62 in tree 6"
+[1] "Corrected branch length of taxon 63 in tree 6"
+[1] "Corrected branch length of taxon 64 in tree 6"
+[1] "Corrected branch length of taxon 65 in tree 6"
+[1] "Corrected branch length of taxon 66 in tree 6"
+[1] "Corrected branch length of taxon 67 in tree 6"
+[1] "Corrected branch length of taxon 68 in tree 6"
+[1] "Corrected branch length of taxon 69 in tree 6"
+[1] "Corrected branch length of taxon 70 in tree 6"
+[1] "Corrected branch length of taxon 71 in tree 6"
+[1] "Corrected branch length of taxon 72 in tree 6"
+[1] "Corrected branch length of taxon 73 in tree 6"
+[1] "Corrected branch length of taxon 74 in tree 6"
+[1] "Corrected branch length of taxon 75 in tree 6"
+[1] "Corrected branch length of taxon 76 in tree 6"
+[1] "Corrected branch length of taxon 77 in tree 6"
+[1] "Corrected branch length of taxon 78 in tree 6"
+[1] "Corrected branch length of taxon 79 in tree 6"
+[1] "Corrected branch length of taxon 80 in tree 6"
+[1] "Corrected branch length of taxon 81 in tree 6"
+[1] "Corrected branch length of taxon 82 in tree 6"
+[1] "Corrected branch length of taxon 83 in tree 6"
+[1] "Corrected branch length of taxon 84 in tree 6"
+[1] "Corrected branch length of taxon 85 in tree 6"
+[1] "Corrected branch length of taxon 86 in tree 6"
+[1] "Corrected branch length of taxon 87 in tree 6"
+[1] "Corrected branch length of taxon 88 in tree 6"
+[1] "Corrected branch length of taxon 89 in tree 6"
+[1] "Corrected branch length of taxon 90 in tree 6"
+[1] "Corrected branch length of taxon 91 in tree 6"
+[1] "Corrected branch length of taxon 92 in tree 6"
+[1] "Corrected branch length of taxon 93 in tree 6"
+[1] "Corrected branch length of taxon 94 in tree 6"
+[1] "Corrected branch length of taxon 95 in tree 6"
+[1] "Corrected branch length of taxon 96 in tree 6"
+[1] "Corrected branch length of taxon 97 in tree 6"
+[1] "Corrected branch length of taxon 98 in tree 6"
+[1] "Corrected branch length of taxon 99 in tree 6"
+[1] "Corrected branch length of taxon 100 in tree 6"
+[1] "Corrected branch length of taxon 101 in tree 6"
+[1] "Corrected branch length of taxon 102 in tree 6"
+[1] "Corrected branch length of taxon 103 in tree 6"
+[1] "Corrected branch length of taxon 104 in tree 6"
+[1] "Corrected branch length of taxon 105 in tree 6"
+[1] "Corrected branch length of taxon 106 in tree 6"
+[1] "Corrected branch length of taxon 107 in tree 6"
+[1] "Corrected branch length of taxon 108 in tree 6"
+[1] "Corrected branch length of taxon 109 in tree 6"
+[1] "Corrected branch length of taxon 110 in tree 6"
+[1] "Corrected branch length of taxon 111 in tree 6"
+[1] "Corrected branch length of taxon 112 in tree 6"
+[1] "Corrected branch length of taxon 113 in tree 6"
+[1] "Corrected branch length of taxon 114 in tree 6"
+[1] "Corrected branch length of taxon 115 in tree 6"
+[1] "Corrected branch length of taxon 116 in tree 6"
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 7"
+[1] "Corrected branch length of taxon 11 in tree 7"
+[1] "Corrected branch length of taxon 13 in tree 7"
+[1] "Corrected branch length of taxon 28 in tree 7"
+[1] "Corrected branch length of taxon 32 in tree 7"
+[1] "Corrected branch length of taxon 50 in tree 7"
+[1] "Corrected branch length of taxon 51 in tree 7"
+[1] "Corrected branch length of taxon 54 in tree 7"
+[1] "Corrected branch length of taxon 58 in tree 7"
+[1] "Corrected branch length of taxon 61 in tree 7"
+[1] "Corrected branch length of taxon 62 in tree 7"
+[1] "Corrected branch length of taxon 63 in tree 7"
+[1] "Corrected branch length of taxon 64 in tree 7"
+[1] "Corrected branch length of taxon 65 in tree 7"
+[1] "Corrected branch length of taxon 68 in tree 7"
+[1] "Corrected branch length of taxon 72 in tree 7"
+[1] "Corrected branch length of taxon 77 in tree 7"
+[1] "Corrected branch length of taxon 78 in tree 7"
+[1] "Corrected branch length of taxon 79 in tree 7"
+[1] "Corrected branch length of taxon 80 in tree 7"
+[1] "Corrected branch length of taxon 81 in tree 7"
+[1] "Corrected branch length of taxon 82 in tree 7"
+[1] "Corrected branch length of taxon 83 in tree 7"
+[1] "Corrected branch length of taxon 84 in tree 7"
+[1] "Corrected branch length of taxon 85 in tree 7"
+[1] "Corrected branch length of taxon 89 in tree 7"
+[1] "Corrected branch length of taxon 110 in tree 7"
+[1] "Corrected branch length of taxon 111 in tree 7"
+[1] "Corrected branch length of taxon 112 in tree 7"
+[1] "Corrected branch length of taxon 113 in tree 7"
+[1] "Corrected branch length of taxon 114 in tree 7"
+[1] "Corrected branch length of taxon 115 in tree 7"
+[1] "Corrected branch length of taxon 116 in tree 7"
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 8"
+[1] "Corrected branch length of taxon 2 in tree 8"
+[1] "Corrected branch length of taxon 3 in tree 8"
+[1] "Corrected branch length of taxon 4 in tree 8"
+[1] "Corrected branch length of taxon 7 in tree 8"
+[1] "Corrected branch length of taxon 8 in tree 8"
+[1] "Corrected branch length of taxon 11 in tree 8"
+[1] "Corrected branch length of taxon 12 in tree 8"
+[1] "Corrected branch length of taxon 13 in tree 8"
+[1] "Corrected branch length of taxon 14 in tree 8"
+[1] "Corrected branch length of taxon 15 in tree 8"
+[1] "Corrected branch length of taxon 16 in tree 8"
+[1] "Corrected branch length of taxon 17 in tree 8"
+[1] "Corrected branch length of taxon 18 in tree 8"
+[1] "Corrected branch length of taxon 19 in tree 8"
+[1] "Corrected branch length of taxon 20 in tree 8"
+[1] "Corrected branch length of taxon 21 in tree 8"
+[1] "Corrected branch length of taxon 22 in tree 8"
+[1] "Corrected branch length of taxon 23 in tree 8"
+[1] "Corrected branch length of taxon 24 in tree 8"
+[1] "Corrected branch length of taxon 25 in tree 8"
+[1] "Corrected branch length of taxon 26 in tree 8"
+[1] "Corrected branch length of taxon 27 in tree 8"
+[1] "Corrected branch length of taxon 28 in tree 8"
+[1] "Corrected branch length of taxon 29 in tree 8"
+[1] "Corrected branch length of taxon 30 in tree 8"
+[1] "Corrected branch length of taxon 31 in tree 8"
+[1] "Corrected branch length of taxon 32 in tree 8"
+[1] "Corrected branch length of taxon 33 in tree 8"
+[1] "Corrected branch length of taxon 34 in tree 8"
+[1] "Corrected branch length of taxon 35 in tree 8"
+[1] "Corrected branch length of taxon 36 in tree 8"
+[1] "Corrected branch length of taxon 37 in tree 8"
+[1] "Corrected branch length of taxon 38 in tree 8"
+[1] "Corrected branch length of taxon 39 in tree 8"
+[1] "Corrected branch length of taxon 40 in tree 8"
+[1] "Corrected branch length of taxon 41 in tree 8"
+[1] "Corrected branch length of taxon 42 in tree 8"
+[1] "Corrected branch length of taxon 43 in tree 8"
+[1] "Corrected branch length of taxon 44 in tree 8"
+[1] "Corrected branch length of taxon 45 in tree 8"
+[1] "Corrected branch length of taxon 46 in tree 8"
+[1] "Corrected branch length of taxon 47 in tree 8"
+[1] "Corrected branch length of taxon 48 in tree 8"
+[1] "Corrected branch length of taxon 49 in tree 8"
+[1] "Corrected branch length of taxon 50 in tree 8"
+[1] "Corrected branch length of taxon 51 in tree 8"
+[1] "Corrected branch length of taxon 52 in tree 8"
+[1] "Corrected branch length of taxon 53 in tree 8"
+[1] "Corrected branch length of taxon 54 in tree 8"
+[1] "Corrected branch length of taxon 55 in tree 8"
+[1] "Corrected branch length of taxon 56 in tree 8"
+[1] "Corrected branch length of taxon 57 in tree 8"
+[1] "Corrected branch length of taxon 58 in tree 8"
+[1] "Corrected branch length of taxon 59 in tree 8"
+[1] "Corrected branch length of taxon 60 in tree 8"
+[1] "Corrected branch length of taxon 61 in tree 8"
+[1] "Corrected branch length of taxon 62 in tree 8"
+[1] "Corrected branch length of taxon 63 in tree 8"
+[1] "Corrected branch length of taxon 64 in tree 8"
+[1] "Corrected branch length of taxon 65 in tree 8"
+[1] "Corrected branch length of taxon 66 in tree 8"
+[1] "Corrected branch length of taxon 67 in tree 8"
+[1] "Corrected branch length of taxon 68 in tree 8"
+[1] "Corrected branch length of taxon 69 in tree 8"
+[1] "Corrected branch length of taxon 70 in tree 8"
+[1] "Corrected branch length of taxon 71 in tree 8"
+[1] "Corrected branch length of taxon 72 in tree 8"
+[1] "Corrected branch length of taxon 73 in tree 8"
+[1] "Corrected branch length of taxon 74 in tree 8"
+[1] "Corrected branch length of taxon 75 in tree 8"
+[1] "Corrected branch length of taxon 76 in tree 8"
+[1] "Corrected branch length of taxon 77 in tree 8"
+[1] "Corrected branch length of taxon 78 in tree 8"
+[1] "Corrected branch length of taxon 79 in tree 8"
+[1] "Corrected branch length of taxon 80 in tree 8"
+[1] "Corrected branch length of taxon 81 in tree 8"
+[1] "Corrected branch length of taxon 82 in tree 8"
+[1] "Corrected branch length of taxon 83 in tree 8"
+[1] "Corrected branch length of taxon 84 in tree 8"
+[1] "Corrected branch length of taxon 85 in tree 8"
+[1] "Corrected branch length of taxon 86 in tree 8"
+[1] "Corrected branch length of taxon 87 in tree 8"
+[1] "Corrected branch length of taxon 88 in tree 8"
+[1] "Corrected branch length of taxon 89 in tree 8"
+[1] "Corrected branch length of taxon 90 in tree 8"
+[1] "Corrected branch length of taxon 91 in tree 8"
+[1] "Corrected branch length of taxon 92 in tree 8"
+[1] "Corrected branch length of taxon 93 in tree 8"
+[1] "Corrected branch length of taxon 94 in tree 8"
+[1] "Corrected branch length of taxon 95 in tree 8"
+[1] "Corrected branch length of taxon 96 in tree 8"
+[1] "Corrected branch length of taxon 97 in tree 8"
+[1] "Corrected branch length of taxon 98 in tree 8"
+[1] "Corrected branch length of taxon 99 in tree 8"
+[1] "Corrected branch length of taxon 100 in tree 8"
+[1] "Corrected branch length of taxon 101 in tree 8"
+[1] "Corrected branch length of taxon 102 in tree 8"
+[1] "Corrected branch length of taxon 103 in tree 8"
+[1] "Corrected branch length of taxon 104 in tree 8"
+[1] "Corrected branch length of taxon 105 in tree 8"
+[1] "Corrected branch length of taxon 106 in tree 8"
+[1] "Corrected branch length of taxon 107 in tree 8"
+[1] "Corrected branch length of taxon 108 in tree 8"
+[1] "Corrected branch length of taxon 109 in tree 8"
+[1] "Corrected branch length of taxon 110 in tree 8"
+[1] "Corrected branch length of taxon 111 in tree 8"
+[1] "Corrected branch length of taxon 112 in tree 8"
+[1] "Corrected branch length of taxon 113 in tree 8"
+[1] "Corrected branch length of taxon 114 in tree 8"
+[1] "Corrected branch length of taxon 115 in tree 8"
+[1] "Corrected branch length of taxon 116 in tree 8"
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 9"
+[1] "Corrected branch length of taxon 11 in tree 9"
+[1] "Corrected branch length of taxon 13 in tree 9"
+[1] "Corrected branch length of taxon 28 in tree 9"
+[1] "Corrected branch length of taxon 32 in tree 9"
+[1] "Corrected branch length of taxon 50 in tree 9"
+[1] "Corrected branch length of taxon 51 in tree 9"
+[1] "Corrected branch length of taxon 52 in tree 9"
+[1] "Corrected branch length of taxon 54 in tree 9"
+[1] "Corrected branch length of taxon 58 in tree 9"
+[1] "Corrected branch length of taxon 61 in tree 9"
+[1] "Corrected branch length of taxon 62 in tree 9"
+[1] "Corrected branch length of taxon 63 in tree 9"
+[1] "Corrected branch length of taxon 64 in tree 9"
+[1] "Corrected branch length of taxon 65 in tree 9"
+[1] "Corrected branch length of taxon 68 in tree 9"
+[1] "Corrected branch length of taxon 72 in tree 9"
+[1] "Corrected branch length of taxon 77 in tree 9"
+[1] "Corrected branch length of taxon 78 in tree 9"
+[1] "Corrected branch length of taxon 79 in tree 9"
+[1] "Corrected branch length of taxon 80 in tree 9"
+[1] "Corrected branch length of taxon 81 in tree 9"
+[1] "Corrected branch length of taxon 82 in tree 9"
+[1] "Corrected branch length of taxon 83 in tree 9"
+[1] "Corrected branch length of taxon 84 in tree 9"
+[1] "Corrected branch length of taxon 85 in tree 9"
+[1] "Corrected branch length of taxon 89 in tree 9"
+[1] "Corrected branch length of taxon 110 in tree 9"
+[1] "Corrected branch length of taxon 111 in tree 9"
+[1] "Corrected branch length of taxon 112 in tree 9"
+[1] "Corrected branch length of taxon 113 in tree 9"
+[1] "Corrected branch length of taxon 114 in tree 9"
+[1] "Corrected branch length of taxon 115 in tree 9"
+[1] "Corrected branch length of taxon 116 in tree 9"
+
+No branches found =< min_brlen (0.01). Returning original tree, pruningwise reordered.
+[1] "Corrected branch length of taxon 1 in tree 10"
+[1] "Corrected branch length of taxon 11 in tree 10"
+[1] "Corrected branch length of taxon 12 in tree 10"
+[1] "Corrected branch length of taxon 13 in tree 10"
+[1] "Corrected branch length of taxon 16 in tree 10"
+[1] "Corrected branch length of taxon 17 in tree 10"
+[1] "Corrected branch length of taxon 18 in tree 10"
+[1] "Corrected branch length of taxon 19 in tree 10"
+[1] "Corrected branch length of taxon 21 in tree 10"
+[1] "Corrected branch length of taxon 22 in tree 10"
+[1] "Corrected branch length of taxon 25 in tree 10"
+[1] "Corrected branch length of taxon 26 in tree 10"
+[1] "Corrected branch length of taxon 27 in tree 10"
+[1] "Corrected branch length of taxon 28 in tree 10"
+[1] "Corrected branch length of taxon 29 in tree 10"
+[1] "Corrected branch length of taxon 30 in tree 10"
+[1] "Corrected branch length of taxon 31 in tree 10"
+[1] "Corrected branch length of taxon 32 in tree 10"
+[1] "Corrected branch length of taxon 34 in tree 10"
+[1] "Corrected branch length of taxon 35 in tree 10"
+[1] "Corrected branch length of taxon 36 in tree 10"
+[1] "Corrected branch length of taxon 37 in tree 10"
+[1] "Corrected branch length of taxon 39 in tree 10"
+[1] "Corrected branch length of taxon 41 in tree 10"
+[1] "Corrected branch length of taxon 42 in tree 10"
+[1] "Corrected branch length of taxon 43 in tree 10"
+[1] "Corrected branch length of taxon 44 in tree 10"
+[1] "Corrected branch length of taxon 50 in tree 10"
+[1] "Corrected branch length of taxon 51 in tree 10"
+[1] "Corrected branch length of taxon 52 in tree 10"
+[1] "Corrected branch length of taxon 54 in tree 10"
+[1] "Corrected branch length of taxon 55 in tree 10"
+[1] "Corrected branch length of taxon 56 in tree 10"
+[1] "Corrected branch length of taxon 57 in tree 10"
+[1] "Corrected branch length of taxon 58 in tree 10"
+[1] "Corrected branch length of taxon 59 in tree 10"
+[1] "Corrected branch length of taxon 60 in tree 10"
+[1] "Corrected branch length of taxon 61 in tree 10"
+[1] "Corrected branch length of taxon 62 in tree 10"
+[1] "Corrected branch length of taxon 63 in tree 10"
+[1] "Corrected branch length of taxon 64 in tree 10"
+[1] "Corrected branch length of taxon 65 in tree 10"
+[1] "Corrected branch length of taxon 66 in tree 10"
+[1] "Corrected branch length of taxon 67 in tree 10"
+[1] "Corrected branch length of taxon 68 in tree 10"
+[1] "Corrected branch length of taxon 69 in tree 10"
+[1] "Corrected branch length of taxon 70 in tree 10"
+[1] "Corrected branch length of taxon 71 in tree 10"
+[1] "Corrected branch length of taxon 72 in tree 10"
+[1] "Corrected branch length of taxon 77 in tree 10"
+[1] "Corrected branch length of taxon 78 in tree 10"
+[1] "Corrected branch length of taxon 79 in tree 10"
+[1] "Corrected branch length of taxon 80 in tree 10"
+[1] "Corrected branch length of taxon 81 in tree 10"
+[1] "Corrected branch length of taxon 82 in tree 10"
+[1] "Corrected branch length of taxon 83 in tree 10"
+[1] "Corrected branch length of taxon 84 in tree 10"
+[1] "Corrected branch length of taxon 85 in tree 10"
+[1] "Corrected branch length of taxon 86 in tree 10"
+[1] "Corrected branch length of taxon 87 in tree 10"
+[1] "Corrected branch length of taxon 88 in tree 10"
+[1] "Corrected branch length of taxon 89 in tree 10"
+[1] "Corrected branch length of taxon 91 in tree 10"
+[1] "Corrected branch length of taxon 92 in tree 10"
+[1] "Corrected branch length of taxon 93 in tree 10"
+[1] "Corrected branch length of taxon 94 in tree 10"
+[1] "Corrected branch length of taxon 96 in tree 10"
+[1] "Corrected branch length of taxon 97 in tree 10"
+[1] "Corrected branch length of taxon 98 in tree 10"
+[1] "Corrected branch length of taxon 99 in tree 10"
+[1] "Corrected branch length of taxon 100 in tree 10"
+[1] "Corrected branch length of taxon 101 in tree 10"
+[1] "Corrected branch length of taxon 102 in tree 10"
+[1] "Corrected branch length of taxon 106 in tree 10"
+[1] "Corrected branch length of taxon 107 in tree 10"
+[1] "Corrected branch length of taxon 108 in tree 10"
+[1] "Corrected branch length of taxon 109 in tree 10"
+[1] "Corrected branch length of taxon 110 in tree 10"
+[1] "Corrected branch length of taxon 111 in tree 10"
+[1] "Corrected branch length of taxon 112 in tree 10"
+[1] "Corrected branch length of taxon 113 in tree 10"
+[1] "Corrected branch length of taxon 114 in tree 10"
+[1] "Corrected branch length of taxon 115 in tree 10"
+[1] "Corrected branch length of taxon 116 in tree 10"
+[1] "Polytomous trees forcibly resolved: 0"
+8.85 sec elapsed
+[1] "Note: tipranges_to_tip_condlikes_of_data_on_each_state() is converting a states_list with (0-based) numbers to the equivalent areanames"
+
+Your computer has 8 cores.
+
+Your computer has 8 cores. You have chosen to use:
+num_cores_to_use = 8 cores for the matrix exponentiations in the likelihood calculations.
+Started cluster with 8 cores.
+
+[1] "parscale:"
+[1] 1 1
+
+
+NOTE: Before running optimx(), here is a test calculation of the data likelihood
+using calc_loglike_for_optim() on initial parameter values, with printlevel=2...
+if this crashes, the error messages are more helpful
+than those from inside optimx().
+
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.459
+
+calc_loglike_for_optim() on initial parameters loglike=-316.4588
+
+
+
+Calculation of likelihood on initial parameters: successful.
+
+Now starting Maximum Likelihood (ML) parameter optimization with optimx()...
+
+
+
+Printing any warnings() that occurred during calc_loglike_for_optim():
+
+Mensagem de aviso:
+package ‘ape’ was built under R version 4.1.1
+
+
+Results of optimx_scalecheck() below. Note: sometimes rescaling parameters may be helpful for ML searches, when the parameters have much different absolute sizes. This can be attempted by setting BioGeoBEARS_run_object$rescale_params = TRUE.
+
+$lpratio
+[1] 0
+
+$lbratio
+[1] 0
+
+Maximizing -- use negfn and neggr
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.459
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.459
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.459
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.012 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -318.906
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.517
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.071
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.849
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.004 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.095
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.009 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.855
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.873
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.846
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.861
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.846
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.846
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.846
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.846
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.085
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.008 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.12
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.907
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.911
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.861
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.861
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.849
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.849
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.854
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.007 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.853
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.848
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.007 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.847
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.846
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.846
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.07
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.007 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.103
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.904
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.007 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.907
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.86
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.008 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.86
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.849
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.849
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.845
+
+
+This is the output from optim, optimx, or GenSA. Check the help on those functions to
+interpret this output and check for convergence issues:
+
+               p1          p2     value fevals gevals niter convcode  kkt1 kkt2 xtime
+bobyqa 0.00854599 0.007715559 -315.8452     32     NA    NA        0 FALSE TRUE 11.56
+
+
+Stopping cluster with 8 cores.
+
+
+Your computer has 8 cores.
+
+Your computer has 8 cores. You have chosen to use:
+num_cores_to_use = 8 cores for the matrix exponentiations in the likelihood calculations.
+Started cluster with 8 cores.
+
+
+
+Currently, cluster_already_open=socket cluster with 8 nodes on host ‘localhost’
+
+Detected NON-stratified input. Running get_inputs_for_stochastic_mapping_from_results_object().
+
+
+Pre-calculating the independent likelihoods on each branch...
+Currently, cluster_already_open=socket cluster with 8 nodes on host ‘localhost’
+
+
+
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:202,anc:119; 223:121,224:201,anc:120; 221:122,222:176,anc:121; 219:203,220:114,anc:202; 217:177,218:81,anc:176; 215:204,216:230,anc:203; 213:178,214:191,anc:177; 211:123,212:55,anc:122; 209:205,210:218,anc:204; 207:179,208:69,anc:178; 205:124,206:159,anc:123; 203:206,204:97,anc:205; 201:180,202:68,anc:179; 199:125,200:151,anc:124; 197:207,198:96,anc:206; 195:181,196:67,anc:180; 193:160,194:170,anc:159; 191:126,192:140,anc:125; 189:219,190:228,anc:218; 187:208,188:95,anc:207; 185:182,186:190,anc:181; 183:161,184:47,anc:160; 181:127,182:137,anc:126; 179:220,180:107,anc:219; 177:209,178:217,anc:208; 175:183,176:189,anc:182; 173:171,174:54,anc:170; 171:162,172:46,anc:161; 169:152,170:36,anc:151; 167:128,168:11,anc:127; 165:221,166:226,anc:220; 163:210,164:215,anc:209; 161:192,162:197,anc:191; 159:184,160:188,anc:183; 157:172,158:53,anc:171; 155:163,156:45,anc:162; 153:153,154:35,anc:152; 151:141,152:148,anc:140; 149:129,150:133,anc:128; 147:222,148:103,anc:221; 145:211,146:214,anc:210; 143:193,144:196,anc:192; 141:185,142:60,anc:184; 139:173,140:52,anc:172; 137:164,138:44,anc:163; 135:154,136:157,anc:153; 133:142,134:146,anc:141; 131:134,132:10,anc:133; 129:130,130:5,anc:129; 127:223,128:225,anc:222; 125:212,126:87,anc:211; 123:198,124:200,anc:197; 121:194,122:73,anc:193; 119:186,120:59,anc:185; 117:174,118:51,anc:173; 115:165,116:168,anc:164; 113:155,114:31,anc:154; 111:149,112:27,anc:148; 109:143,110:145,anc:142; 107:138,108:15,anc:137; 105:135,106:9,anc:134; 103:131,104:4,anc:130; 101:231,102:113,anc:230; 99:229,100:110,anc:228; 97:227,98:106,anc:226; 95:224,96:100,anc:223; 93:216,94:92,anc:215; 91:213,92:86,anc:212; 89:199,90:78,anc:198; 87:195,88:72,anc:194; 85:187,86:58,anc:186; 83:175,84:50,anc:174; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:158,78:34,anc:157; 75:156,76:30,anc:155; 73:150,74:26,anc:149; 71:147,72:23,anc:146; 69:144,70:18,anc:143; 67:139,68:14,anc:138; 65:136,66:8,anc:135; 63:132,64:3,anc:131; 61:111,62:112,anc:231; 59:108,60:109,anc:229; 57:104,58:105,anc:227; 55:101,56:102,anc:225; 53:98,54:99,anc:224; 51:93,52:94,anc:217; 49:90,50:91,anc:216; 47:88,48:89,anc:214; 45:84,46:85,anc:213; 43:82,44:83,anc:201; 41:79,42:80,anc:200; 39:76,40:77,anc:199; 37:74,38:75,anc:196; 35:70,36:71,anc:195; 33:65,34:66,anc:190; 31:63,32:64,anc:189; 29:61,30:62,anc:188; 27:56,28:57,anc:187; 25:48,26:49,anc:175; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:158; 15:28,16:29,anc:156; 13:24,14:25,anc:150; 11:21,12:22,anc:147; 9:19,10:20,anc:145; 7:16,8:17,anc:144; 5:12,6:13,anc:139; 3:6,4:7,anc:136; 1:1,2:2,anc:132; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #1/2 on stochastic mapping attempt #1/20 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:202,anc:119; 223:121,224:201,anc:120; 221:122,222:176,anc:121; 219:203,220:114,anc:202; 217:177,218:81,anc:176; 215:204,216:230,anc:203; 213:178,214:191,anc:177; 211:123,212:55,anc:122; 209:205,210:218,anc:204; 207:179,208:69,anc:178; 205:124,206:159,anc:123; 203:206,204:97,anc:205; 201:180,202:68,anc:179; 199:125,200:151,anc:124; 197:207,198:96,anc:206; 195:181,196:67,anc:180; 193:160,194:170,anc:159; 191:126,192:140,anc:125; 189:219,190:228,anc:218; 187:208,188:95,anc:207; 185:182,186:190,anc:181; 183:161,184:47,anc:160; 181:127,182:137,anc:126; 179:220,180:107,anc:219; 177:209,178:217,anc:208; 175:183,176:189,anc:182; 173:171,174:54,anc:170; 171:162,172:46,anc:161; 169:152,170:36,anc:151; 167:128,168:11,anc:127; 165:221,166:226,anc:220; 163:210,164:215,anc:209; 161:192,162:197,anc:191; 159:184,160:188,anc:183; 157:172,158:53,anc:171; 155:163,156:45,anc:162; 153:153,154:35,anc:152; 151:141,152:148,anc:140; 149:129,150:133,anc:128; 147:222,148:103,anc:221; 145:211,146:214,anc:210; 143:193,144:196,anc:192; 141:185,142:60,anc:184; 139:173,140:52,anc:172; 137:164,138:44,anc:163; 135:154,136:157,anc:153; 133:142,134:146,anc:141; 131:134,132:10,anc:133; 129:130,130:5,anc:129; 127:223,128:225,anc:222; 125:212,126:87,anc:211; 123:198,124:200,anc:197; 121:194,122:73,anc:193; 119:186,120:59,anc:185; 117:174,118:51,anc:173; 115:165,116:168,anc:164; 113:155,114:31,anc:154; 111:149,112:27,anc:148; 109:143,110:145,anc:142; 107:138,108:15,anc:137; 105:135,106:9,anc:134; 103:131,104:4,anc:130; 101:231,102:113,anc:230; 99:229,100:110,anc:228; 97:227,98:106,anc:226; 95:224,96:100,anc:223; 93:216,94:92,anc:215; 91:213,92:86,anc:212; 89:199,90:78,anc:198; 87:195,88:72,anc:194; 85:187,86:58,anc:186; 83:175,84:50,anc:174; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:158,78:34,anc:157; 75:156,76:30,anc:155; 73:150,74:26,anc:149; 71:147,72:23,anc:146; 69:144,70:18,anc:143; 67:139,68:14,anc:138; 65:136,66:8,anc:135; 63:132,64:3,anc:131; 61:111,62:112,anc:231; 59:108,60:109,anc:229; 57:104,58:105,anc:227; 55:101,56:102,anc:225; 53:98,54:99,anc:224; 51:93,52:94,anc:217; 49:90,50:91,anc:216; 47:88,48:89,anc:214; 45:84,46:85,anc:213; 43:82,44:83,anc:201; 41:79,42:80,anc:200; 39:76,40:77,anc:199; 37:74,38:75,anc:196; 35:70,36:71,anc:195; 33:65,34:66,anc:190; 31:63,32:64,anc:189; 29:61,30:62,anc:188; 27:56,28:57,anc:187; 25:48,26:49,anc:175; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:158; 15:28,16:29,anc:156; 13:24,14:25,anc:150; 11:21,12:22,anc:147; 9:19,10:20,anc:145; 7:16,8:17,anc:144; 5:12,6:13,anc:139; 3:6,4:7,anc:136; 1:1,2:2,anc:132; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #2/2 on stochastic mapping attempt #2/20 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+
+
+=============================================
+Biogeographic Stochastic Mapping is finished.
+
+Saving cladogenetic and anagenetic events tables. The commands:
+
+load(file=D:\Usuários\peter\OneDrive\Pesquisa\2021_ArtigoQ1 2 Platyrhinni-Asus\Platy_paper\output\DEC_M1t4\BSM_results\BSM_rep1\RES_clado_events_tables.Rdata)
+
+load(file=D:\Usuários\peter\OneDrive\Pesquisa\2021_ArtigoQ1 2 Platyrhinni-Asus\Platy_paper\output\DEC_M1t4\BSM_results\BSM_rep1\RES_ana_events_tables.Rdata)
+
+...will load them to objects RES_clado_events_tables and RES_ana_events_tables.
+
+Now returning to console 'BSM_output', which contains:
+BSM_output$RES_clado_events_tables
+BSM_output$RES_ana_events_tables
+=============================================
+
+Called from: which(tree$edge[, 1] == node)
+[1] "Total time elapsed:"
+Time difference of 4.982057 mins
