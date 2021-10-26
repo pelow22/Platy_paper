@@ -1,0 +1,763 @@
+
+11 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+27:5,28:10,anc:131; 137:188,138:1,anc:187; 139:196,140:68,anc:195; 155:187,156:84,anc:186; 191:204,192:72,anc:203; 197:125,198:113,anc:124; 199:218,200:51,anc:217; 
+
+
+Originally, 8 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 1"
+[1] "Corrected branch length of taxon 11 in tree 1"
+[1] "Corrected branch length of taxon 13 in tree 1"
+[1] "Corrected branch length of taxon 28 in tree 1"
+[1] "Corrected branch length of taxon 50 in tree 1"
+[1] "Corrected branch length of taxon 51 in tree 1"
+[1] "Corrected branch length of taxon 54 in tree 1"
+[1] "Corrected branch length of taxon 58 in tree 1"
+[1] "Corrected branch length of taxon 61 in tree 1"
+[1] "Corrected branch length of taxon 62 in tree 1"
+[1] "Corrected branch length of taxon 64 in tree 1"
+[1] "Corrected branch length of taxon 65 in tree 1"
+[1] "Corrected branch length of taxon 68 in tree 1"
+[1] "Corrected branch length of taxon 72 in tree 1"
+[1] "Corrected branch length of taxon 77 in tree 1"
+[1] "Corrected branch length of taxon 78 in tree 1"
+[1] "Corrected branch length of taxon 79 in tree 1"
+[1] "Corrected branch length of taxon 80 in tree 1"
+[1] "Corrected branch length of taxon 81 in tree 1"
+[1] "Corrected branch length of taxon 82 in tree 1"
+[1] "Corrected branch length of taxon 83 in tree 1"
+[1] "Corrected branch length of taxon 84 in tree 1"
+[1] "Corrected branch length of taxon 85 in tree 1"
+[1] "Corrected branch length of taxon 89 in tree 1"
+[1] "Corrected branch length of taxon 110 in tree 1"
+[1] "Corrected branch length of taxon 111 in tree 1"
+[1] "Corrected branch length of taxon 112 in tree 1"
+[1] "Corrected branch length of taxon 113 in tree 1"
+[1] "Corrected branch length of taxon 114 in tree 1"
+[1] "Corrected branch length of taxon 115 in tree 1"
+
+13 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+137:199,138:68,anc:198; 145:207,146:89,anc:206; 153:190,154:64,anc:189; 163:206,164:111,anc:205; 169:152,170:115,anc:151; 183:188,184:61,anc:187; 221:122,222:28,anc:121; 229:118,230:85,anc:117; 
+
+
+Originally, 9 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 2"
+[1] "Corrected branch length of taxon 11 in tree 2"
+[1] "Corrected branch length of taxon 13 in tree 2"
+[1] "Corrected branch length of taxon 28 in tree 2"
+[1] "Corrected branch length of taxon 50 in tree 2"
+[1] "Corrected branch length of taxon 51 in tree 2"
+[1] "Corrected branch length of taxon 54 in tree 2"
+[1] "Corrected branch length of taxon 58 in tree 2"
+[1] "Corrected branch length of taxon 61 in tree 2"
+[1] "Corrected branch length of taxon 62 in tree 2"
+[1] "Corrected branch length of taxon 64 in tree 2"
+[1] "Corrected branch length of taxon 65 in tree 2"
+[1] "Corrected branch length of taxon 68 in tree 2"
+[1] "Corrected branch length of taxon 72 in tree 2"
+[1] "Corrected branch length of taxon 77 in tree 2"
+[1] "Corrected branch length of taxon 78 in tree 2"
+[1] "Corrected branch length of taxon 79 in tree 2"
+[1] "Corrected branch length of taxon 80 in tree 2"
+[1] "Corrected branch length of taxon 81 in tree 2"
+[1] "Corrected branch length of taxon 82 in tree 2"
+[1] "Corrected branch length of taxon 83 in tree 2"
+[1] "Corrected branch length of taxon 84 in tree 2"
+[1] "Corrected branch length of taxon 85 in tree 2"
+[1] "Corrected branch length of taxon 89 in tree 2"
+[1] "Corrected branch length of taxon 110 in tree 2"
+[1] "Corrected branch length of taxon 111 in tree 2"
+[1] "Corrected branch length of taxon 112 in tree 2"
+[1] "Corrected branch length of taxon 113 in tree 2"
+[1] "Corrected branch length of taxon 114 in tree 2"
+[1] "Corrected branch length of taxon 115 in tree 2"
+
+9 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+129:211,130:54,anc:210; 161:188,162:64,anc:187; 173:173,174:77,anc:172; 191:221,192:62,anc:220; 195:185,196:82,anc:184; 229:118,230:85,anc:117; 
+
+
+Originally, 6 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 3"
+[1] "Corrected branch length of taxon 11 in tree 3"
+[1] "Corrected branch length of taxon 13 in tree 3"
+[1] "Corrected branch length of taxon 28 in tree 3"
+[1] "Corrected branch length of taxon 50 in tree 3"
+[1] "Corrected branch length of taxon 51 in tree 3"
+[1] "Corrected branch length of taxon 54 in tree 3"
+[1] "Corrected branch length of taxon 58 in tree 3"
+[1] "Corrected branch length of taxon 61 in tree 3"
+[1] "Corrected branch length of taxon 62 in tree 3"
+[1] "Corrected branch length of taxon 64 in tree 3"
+[1] "Corrected branch length of taxon 65 in tree 3"
+[1] "Corrected branch length of taxon 68 in tree 3"
+[1] "Corrected branch length of taxon 72 in tree 3"
+[1] "Corrected branch length of taxon 77 in tree 3"
+[1] "Corrected branch length of taxon 78 in tree 3"
+[1] "Corrected branch length of taxon 79 in tree 3"
+[1] "Corrected branch length of taxon 80 in tree 3"
+[1] "Corrected branch length of taxon 81 in tree 3"
+[1] "Corrected branch length of taxon 82 in tree 3"
+[1] "Corrected branch length of taxon 83 in tree 3"
+[1] "Corrected branch length of taxon 84 in tree 3"
+[1] "Corrected branch length of taxon 85 in tree 3"
+[1] "Corrected branch length of taxon 89 in tree 3"
+[1] "Corrected branch length of taxon 110 in tree 3"
+[1] "Corrected branch length of taxon 111 in tree 3"
+[1] "Corrected branch length of taxon 112 in tree 3"
+[1] "Corrected branch length of taxon 113 in tree 3"
+[1] "Corrected branch length of taxon 114 in tree 3"
+[1] "Corrected branch length of taxon 115 in tree 3"
+
+13 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+139:189,140:1,anc:188; 141:197,142:80,anc:196; 169:151,170:115,anc:150; 191:186,192:82,anc:185; 193:128,194:113,anc:127; 209:203,210:114,anc:202; 223:121,224:50,anc:120; 229:118,230:85,anc:117; 
+
+
+Originally, 8 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 4"
+[1] "Corrected branch length of taxon 11 in tree 4"
+[1] "Corrected branch length of taxon 13 in tree 4"
+[1] "Corrected branch length of taxon 28 in tree 4"
+[1] "Corrected branch length of taxon 50 in tree 4"
+[1] "Corrected branch length of taxon 51 in tree 4"
+[1] "Corrected branch length of taxon 54 in tree 4"
+[1] "Corrected branch length of taxon 58 in tree 4"
+[1] "Corrected branch length of taxon 61 in tree 4"
+[1] "Corrected branch length of taxon 62 in tree 4"
+[1] "Corrected branch length of taxon 64 in tree 4"
+[1] "Corrected branch length of taxon 65 in tree 4"
+[1] "Corrected branch length of taxon 68 in tree 4"
+[1] "Corrected branch length of taxon 72 in tree 4"
+[1] "Corrected branch length of taxon 77 in tree 4"
+[1] "Corrected branch length of taxon 78 in tree 4"
+[1] "Corrected branch length of taxon 79 in tree 4"
+[1] "Corrected branch length of taxon 80 in tree 4"
+[1] "Corrected branch length of taxon 81 in tree 4"
+[1] "Corrected branch length of taxon 82 in tree 4"
+[1] "Corrected branch length of taxon 83 in tree 4"
+[1] "Corrected branch length of taxon 84 in tree 4"
+[1] "Corrected branch length of taxon 85 in tree 4"
+[1] "Corrected branch length of taxon 89 in tree 4"
+[1] "Corrected branch length of taxon 110 in tree 4"
+[1] "Corrected branch length of taxon 111 in tree 4"
+[1] "Corrected branch length of taxon 112 in tree 4"
+[1] "Corrected branch length of taxon 113 in tree 4"
+[1] "Corrected branch length of taxon 114 in tree 4"
+[1] "Corrected branch length of taxon 115 in tree 4"
+
+10 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+31:5,32:10,anc:134; 131:227,132:78,anc:226; 141:198,142:68,anc:197; 147:208,148:54,anc:207; 155:151,156:115,anc:150; 157:188,158:84,anc:187; 205:127,206:113,anc:126; 
+
+
+Originally, 9 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 5"
+[1] "Corrected branch length of taxon 11 in tree 5"
+[1] "Corrected branch length of taxon 13 in tree 5"
+[1] "Corrected branch length of taxon 28 in tree 5"
+[1] "Corrected branch length of taxon 50 in tree 5"
+[1] "Corrected branch length of taxon 51 in tree 5"
+[1] "Corrected branch length of taxon 54 in tree 5"
+[1] "Corrected branch length of taxon 58 in tree 5"
+[1] "Corrected branch length of taxon 61 in tree 5"
+[1] "Corrected branch length of taxon 62 in tree 5"
+[1] "Corrected branch length of taxon 64 in tree 5"
+[1] "Corrected branch length of taxon 65 in tree 5"
+[1] "Corrected branch length of taxon 68 in tree 5"
+[1] "Corrected branch length of taxon 72 in tree 5"
+[1] "Corrected branch length of taxon 77 in tree 5"
+[1] "Corrected branch length of taxon 78 in tree 5"
+[1] "Corrected branch length of taxon 79 in tree 5"
+[1] "Corrected branch length of taxon 80 in tree 5"
+[1] "Corrected branch length of taxon 81 in tree 5"
+[1] "Corrected branch length of taxon 82 in tree 5"
+[1] "Corrected branch length of taxon 83 in tree 5"
+[1] "Corrected branch length of taxon 84 in tree 5"
+[1] "Corrected branch length of taxon 85 in tree 5"
+[1] "Corrected branch length of taxon 89 in tree 5"
+[1] "Corrected branch length of taxon 110 in tree 5"
+[1] "Corrected branch length of taxon 111 in tree 5"
+[1] "Corrected branch length of taxon 112 in tree 5"
+[1] "Corrected branch length of taxon 113 in tree 5"
+[1] "Corrected branch length of taxon 114 in tree 5"
+[1] "Corrected branch length of taxon 115 in tree 5"
+
+15 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+127:212,128:81,anc:211; 135:189,136:1,anc:188; 137:198,138:68,anc:197; 169:173,170:77,anc:172; 171:151,172:115,anc:150; 173:196,174:64,anc:195; 191:218,192:78,anc:217; 197:186,198:61,anc:185; 201:217,202:62,anc:216; 205:185,206:82,anc:184; 209:216,210:51,anc:215; 213:123,214:58,anc:122; 
+
+
+Originally, 13 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 6"
+[1] "Corrected branch length of taxon 11 in tree 6"
+[1] "Corrected branch length of taxon 13 in tree 6"
+[1] "Corrected branch length of taxon 28 in tree 6"
+[1] "Corrected branch length of taxon 50 in tree 6"
+[1] "Corrected branch length of taxon 51 in tree 6"
+[1] "Corrected branch length of taxon 54 in tree 6"
+[1] "Corrected branch length of taxon 58 in tree 6"
+[1] "Corrected branch length of taxon 61 in tree 6"
+[1] "Corrected branch length of taxon 62 in tree 6"
+[1] "Corrected branch length of taxon 64 in tree 6"
+[1] "Corrected branch length of taxon 65 in tree 6"
+[1] "Corrected branch length of taxon 68 in tree 6"
+[1] "Corrected branch length of taxon 72 in tree 6"
+[1] "Corrected branch length of taxon 77 in tree 6"
+[1] "Corrected branch length of taxon 78 in tree 6"
+[1] "Corrected branch length of taxon 79 in tree 6"
+[1] "Corrected branch length of taxon 80 in tree 6"
+[1] "Corrected branch length of taxon 81 in tree 6"
+[1] "Corrected branch length of taxon 82 in tree 6"
+[1] "Corrected branch length of taxon 83 in tree 6"
+[1] "Corrected branch length of taxon 84 in tree 6"
+[1] "Corrected branch length of taxon 85 in tree 6"
+[1] "Corrected branch length of taxon 89 in tree 6"
+[1] "Corrected branch length of taxon 110 in tree 6"
+[1] "Corrected branch length of taxon 111 in tree 6"
+[1] "Corrected branch length of taxon 112 in tree 6"
+[1] "Corrected branch length of taxon 113 in tree 6"
+[1] "Corrected branch length of taxon 114 in tree 6"
+[1] "Corrected branch length of taxon 115 in tree 6"
+
+11 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+9:70,10:71,anc:169; 171:205,172:111,anc:204; 175:148,176:115,anc:147; 189:192,190:61,anc:191; 219:202,220:28,anc:201; 
+
+
+Originally, 6 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 7"
+[1] "Corrected branch length of taxon 11 in tree 7"
+[1] "Corrected branch length of taxon 13 in tree 7"
+[1] "Corrected branch length of taxon 28 in tree 7"
+[1] "Corrected branch length of taxon 50 in tree 7"
+[1] "Corrected branch length of taxon 51 in tree 7"
+[1] "Corrected branch length of taxon 54 in tree 7"
+[1] "Corrected branch length of taxon 58 in tree 7"
+[1] "Corrected branch length of taxon 61 in tree 7"
+[1] "Corrected branch length of taxon 62 in tree 7"
+[1] "Corrected branch length of taxon 64 in tree 7"
+[1] "Corrected branch length of taxon 65 in tree 7"
+[1] "Corrected branch length of taxon 68 in tree 7"
+[1] "Corrected branch length of taxon 72 in tree 7"
+[1] "Corrected branch length of taxon 77 in tree 7"
+[1] "Corrected branch length of taxon 78 in tree 7"
+[1] "Corrected branch length of taxon 79 in tree 7"
+[1] "Corrected branch length of taxon 80 in tree 7"
+[1] "Corrected branch length of taxon 81 in tree 7"
+[1] "Corrected branch length of taxon 82 in tree 7"
+[1] "Corrected branch length of taxon 83 in tree 7"
+[1] "Corrected branch length of taxon 84 in tree 7"
+[1] "Corrected branch length of taxon 85 in tree 7"
+[1] "Corrected branch length of taxon 89 in tree 7"
+[1] "Corrected branch length of taxon 110 in tree 7"
+[1] "Corrected branch length of taxon 111 in tree 7"
+[1] "Corrected branch length of taxon 112 in tree 7"
+[1] "Corrected branch length of taxon 113 in tree 7"
+[1] "Corrected branch length of taxon 114 in tree 7"
+[1] "Corrected branch length of taxon 115 in tree 7"
+
+15 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+143:198,144:68,anc:197; 149:208,150:54,anc:207; 167:207,168:111,anc:206; 179:196,180:61,anc:195; 191:186,192:82,anc:185; 211:203,212:218,anc:202; 217:124,218:58,anc:123; 229:118,230:85,anc:117; 
+
+
+Originally, 8 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 8"
+[1] "Corrected branch length of taxon 11 in tree 8"
+[1] "Corrected branch length of taxon 13 in tree 8"
+[1] "Corrected branch length of taxon 28 in tree 8"
+[1] "Corrected branch length of taxon 50 in tree 8"
+[1] "Corrected branch length of taxon 51 in tree 8"
+[1] "Corrected branch length of taxon 54 in tree 8"
+[1] "Corrected branch length of taxon 58 in tree 8"
+[1] "Corrected branch length of taxon 61 in tree 8"
+[1] "Corrected branch length of taxon 62 in tree 8"
+[1] "Corrected branch length of taxon 64 in tree 8"
+[1] "Corrected branch length of taxon 65 in tree 8"
+[1] "Corrected branch length of taxon 68 in tree 8"
+[1] "Corrected branch length of taxon 72 in tree 8"
+[1] "Corrected branch length of taxon 77 in tree 8"
+[1] "Corrected branch length of taxon 78 in tree 8"
+[1] "Corrected branch length of taxon 79 in tree 8"
+[1] "Corrected branch length of taxon 80 in tree 8"
+[1] "Corrected branch length of taxon 81 in tree 8"
+[1] "Corrected branch length of taxon 82 in tree 8"
+[1] "Corrected branch length of taxon 83 in tree 8"
+[1] "Corrected branch length of taxon 84 in tree 8"
+[1] "Corrected branch length of taxon 85 in tree 8"
+[1] "Corrected branch length of taxon 89 in tree 8"
+[1] "Corrected branch length of taxon 110 in tree 8"
+[1] "Corrected branch length of taxon 111 in tree 8"
+[1] "Corrected branch length of taxon 112 in tree 8"
+[1] "Corrected branch length of taxon 113 in tree 8"
+[1] "Corrected branch length of taxon 114 in tree 8"
+[1] "Corrected branch length of taxon 115 in tree 8"
+
+12 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+143:197,144:80,anc:196; 151:208,152:54,anc:207; 171:161,172:77,anc:160; 173:150,174:115,anc:149; 175:187,176:64,anc:186; 199:126,200:112,anc:125; 205:184,206:82,anc:183; 215:203,216:114,anc:202; 219:123,220:58,anc:122; 229:118,230:85,anc:117; 
+
+
+Originally, 10 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 9"
+[1] "Corrected branch length of taxon 11 in tree 9"
+[1] "Corrected branch length of taxon 13 in tree 9"
+[1] "Corrected branch length of taxon 28 in tree 9"
+[1] "Corrected branch length of taxon 50 in tree 9"
+[1] "Corrected branch length of taxon 51 in tree 9"
+[1] "Corrected branch length of taxon 54 in tree 9"
+[1] "Corrected branch length of taxon 58 in tree 9"
+[1] "Corrected branch length of taxon 61 in tree 9"
+[1] "Corrected branch length of taxon 62 in tree 9"
+[1] "Corrected branch length of taxon 64 in tree 9"
+[1] "Corrected branch length of taxon 65 in tree 9"
+[1] "Corrected branch length of taxon 68 in tree 9"
+[1] "Corrected branch length of taxon 72 in tree 9"
+[1] "Corrected branch length of taxon 77 in tree 9"
+[1] "Corrected branch length of taxon 78 in tree 9"
+[1] "Corrected branch length of taxon 79 in tree 9"
+[1] "Corrected branch length of taxon 80 in tree 9"
+[1] "Corrected branch length of taxon 81 in tree 9"
+[1] "Corrected branch length of taxon 82 in tree 9"
+[1] "Corrected branch length of taxon 83 in tree 9"
+[1] "Corrected branch length of taxon 84 in tree 9"
+[1] "Corrected branch length of taxon 85 in tree 9"
+[1] "Corrected branch length of taxon 89 in tree 9"
+[1] "Corrected branch length of taxon 110 in tree 9"
+[1] "Corrected branch length of taxon 111 in tree 9"
+[1] "Corrected branch length of taxon 112 in tree 9"
+[1] "Corrected branch length of taxon 113 in tree 9"
+[1] "Corrected branch length of taxon 114 in tree 9"
+[1] "Corrected branch length of taxon 115 in tree 9"
+
+14 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+131:226,132:51,anc:225; 135:211,136:111,anc:210; 143:189,144:1,anc:188; 145:197,146:68,anc:196; 161:188,162:84,anc:187; 171:205,172:89,anc:204; 185:217,186:78,anc:216; 201:185,202:82,anc:184; 229:118,230:85,anc:117; 
+
+
+Originally, 9 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 10"
+[1] "Corrected branch length of taxon 11 in tree 10"
+[1] "Corrected branch length of taxon 13 in tree 10"
+[1] "Corrected branch length of taxon 28 in tree 10"
+[1] "Corrected branch length of taxon 50 in tree 10"
+[1] "Corrected branch length of taxon 51 in tree 10"
+[1] "Corrected branch length of taxon 54 in tree 10"
+[1] "Corrected branch length of taxon 58 in tree 10"
+[1] "Corrected branch length of taxon 61 in tree 10"
+[1] "Corrected branch length of taxon 62 in tree 10"
+[1] "Corrected branch length of taxon 64 in tree 10"
+[1] "Corrected branch length of taxon 65 in tree 10"
+[1] "Corrected branch length of taxon 68 in tree 10"
+[1] "Corrected branch length of taxon 72 in tree 10"
+[1] "Corrected branch length of taxon 77 in tree 10"
+[1] "Corrected branch length of taxon 78 in tree 10"
+[1] "Corrected branch length of taxon 79 in tree 10"
+[1] "Corrected branch length of taxon 80 in tree 10"
+[1] "Corrected branch length of taxon 81 in tree 10"
+[1] "Corrected branch length of taxon 82 in tree 10"
+[1] "Corrected branch length of taxon 83 in tree 10"
+[1] "Corrected branch length of taxon 84 in tree 10"
+[1] "Corrected branch length of taxon 85 in tree 10"
+[1] "Corrected branch length of taxon 89 in tree 10"
+[1] "Corrected branch length of taxon 110 in tree 10"
+[1] "Corrected branch length of taxon 111 in tree 10"
+[1] "Corrected branch length of taxon 112 in tree 10"
+[1] "Corrected branch length of taxon 113 in tree 10"
+[1] "Corrected branch length of taxon 114 in tree 10"
+[1] "Corrected branch length of taxon 115 in tree 10"
+[1] "Polytomous trees forcibly resolved: 0"
+15.64 sec elapsed
+[1] "Note: tipranges_to_tip_condlikes_of_data_on_each_state() is converting a states_list with (0-based) numbers to the equivalent areanames"
+
+Your computer has 8 cores.
+
+Your computer has 8 cores. You have chosen to use:
+num_cores_to_use = 8 cores for the matrix exponentiations in the likelihood calculations.
+Started cluster with 8 cores.
+
+[1] "parscale:"
+[1] 1 1
+
+
+NOTE: Before running optimx(), here is a test calculation of the data likelihood
+using calc_loglike_for_optim() on initial parameter values, with printlevel=2...
+if this crashes, the error messages are more helpful
+than those from inside optimx().
+
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -331.128
+
+calc_loglike_for_optim() on initial parameters loglike=-331.128
+
+
+
+Calculation of likelihood on initial parameters: successful.
+
+Now starting Maximum Likelihood (ML) parameter optimization with optimx()...
+
+
+
+Printing any warnings() that occurred during calc_loglike_for_optim():
+
+Mensagem de aviso:
+package ‘ape’ was built under R version 4.1.1
+
+
+Results of optimx_scalecheck() below. Note: sometimes rescaling parameters may be helpful for ML searches, when the parameters have much different absolute sizes. This can be attempted by setting BioGeoBEARS_run_object$rescale_params = TRUE.
+
+$lpratio
+[1] 0
+
+$lbratio
+[1] 0
+
+Maximizing -- use negfn and neggr
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -331.128
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -331.128
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -331.128
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.012 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -333.451
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -331.042
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.927
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.681
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.016 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.925
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.683
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.68
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.675
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.674
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.674
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.674
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.92
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.955
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.737
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.741
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.69
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.69
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.678
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.677
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.689
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.69
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.677
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.677
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.674
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.674
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.674
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.674
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.902
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.937
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.733
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.737
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.689
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.689
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.677
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.677
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -330.673
+
+
+This is the output from optim, optimx, or GenSA. Check the help on those functions to
+interpret this output and check for convergence issues:
+
+               p1         p2     value fevals gevals niter convcode  kkt1 kkt2 xtime
+bobyqa 0.00887187 0.01116842 -330.6734     34     NA    NA        0 FALSE TRUE 12.44
+
+
+Stopping cluster with 8 cores.
+
+
+Your computer has 8 cores.
+
+Your computer has 8 cores. You have chosen to use:
+num_cores_to_use = 8 cores for the matrix exponentiations in the likelihood calculations.
+Started cluster with 8 cores.
+
+
+
+Currently, cluster_already_open=socket cluster with 8 nodes on host ‘localhost’
+
+Detected NON-stratified input. Running get_inputs_for_stochastic_mapping_from_results_object().
+
+
+Pre-calculating the independent likelihoods on each branch...
+Currently, cluster_already_open=socket cluster with 8 nodes on host ‘localhost’
+
+
+
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #1/10 on stochastic mapping attempt #1/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #2/10 on stochastic mapping attempt #2/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #3/10 on stochastic mapping attempt #3/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #4/10 on stochastic mapping attempt #4/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #5/10 on stochastic mapping attempt #5/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #6/10 on stochastic mapping attempt #6/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #7/10 on stochastic mapping attempt #7/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #8/10 on stochastic mapping attempt #8/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #9/10 on stochastic mapping attempt #9/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:200,anc:119; 223:201,224:114,anc:200; 221:202,222:231,anc:201; 219:121,220:199,anc:120; 217:203,218:219,anc:202; 215:122,216:175,anc:121; 213:204,214:217,anc:203; 211:176,212:188,anc:175; 209:123,210:158,anc:122; 207:205,208:95,anc:204; 205:177,206:186,anc:176; 203:159,204:170,anc:158; 201:124,202:150,anc:123; 199:206,200:94,anc:205; 197:178,198:64,anc:177; 195:160,196:48,anc:159; 193:125,194:139,anc:124; 191:220,192:111,anc:219; 189:207,190:93,anc:206; 187:189,188:79,anc:188; 185:179,186:185,anc:178; 183:161,184:47,anc:160; 181:126,182:136,anc:125; 179:221,180:229,anc:220; 177:208,178:216,anc:207; 175:190,176:196,anc:189; 173:180,174:61,anc:179; 171:162,172:46,anc:161; 169:151,170:36,anc:150; 167:127,168:11,anc:126; 165:222,166:227,anc:221; 163:209,164:214,anc:208; 161:191,162:74,anc:190; 159:181,160:60,anc:180; 157:171,158:54,anc:170; 155:163,156:45,anc:162; 153:152,154:35,anc:151; 151:140,152:147,anc:139; 149:128,150:132,anc:127; 147:223,148:104,anc:222; 145:210,146:213,anc:209; 143:192,144:195,anc:191; 141:182,142:59,anc:181; 139:172,140:53,anc:171; 137:164,138:44,anc:163; 135:153,136:156,anc:152; 133:141,134:145,anc:140; 131:133,132:10,anc:132; 129:129,130:5,anc:128; 127:224,128:226,anc:223; 125:211,126:85,anc:210; 123:193,124:71,anc:192; 121:183,122:58,anc:182; 119:173,120:52,anc:172; 117:165,118:168,anc:164; 115:154,116:31,anc:153; 113:148,114:27,anc:147; 111:142,112:144,anc:141; 109:137,110:15,anc:136; 107:134,108:9,anc:133; 105:130,106:4,anc:129; 103:230,104:110,anc:229; 101:228,102:107,anc:227; 99:225,100:101,anc:224; 97:218,98:98,anc:217; 95:215,96:90,anc:214; 93:212,94:84,anc:211; 91:197,92:198,anc:196; 89:194,90:70,anc:193; 87:187,88:67,anc:186; 85:184,86:57,anc:183; 83:174,84:51,anc:173; 81:169,82:43,anc:168; 79:166,80:167,anc:165; 77:157,78:34,anc:156; 75:155,76:30,anc:154; 73:149,74:26,anc:148; 71:146,72:23,anc:145; 69:143,70:18,anc:142; 67:138,68:14,anc:137; 65:135,66:8,anc:134; 63:131,64:3,anc:130; 61:112,62:113,anc:231; 59:108,60:109,anc:230; 57:105,58:106,anc:228; 55:102,56:103,anc:226; 53:99,54:100,anc:225; 51:96,52:97,anc:218; 49:91,50:92,anc:216; 47:88,48:89,anc:215; 45:86,46:87,anc:213; 43:82,44:83,anc:212; 41:80,42:81,anc:199; 39:77,40:78,anc:198; 37:75,38:76,anc:197; 35:72,36:73,anc:195; 33:68,34:69,anc:194; 31:65,32:66,anc:187; 29:62,30:63,anc:185; 27:55,28:56,anc:184; 25:49,26:50,anc:174; 23:41,24:42,anc:169; 21:39,22:40,anc:167; 19:37,20:38,anc:166; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:24,14:25,anc:149; 11:21,12:22,anc:146; 9:19,10:20,anc:144; 7:16,8:17,anc:143; 5:12,6:13,anc:138; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #10/10 on stochastic mapping attempt #10/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+
+
+=============================================
+Biogeographic Stochastic Mapping is finished.
+
+Saving cladogenetic and anagenetic events tables. The commands:
+
+load(file=D:\Usuários\peter\OneDrive\Pesquisa\2021_ArtigoQ1 2 Platyrhinni-Asus\Platy_paper\output\DEC_M1t7\BSM_results\BSM_rep1\RES_clado_events_tables.Rdata)
+
+load(file=D:\Usuários\peter\OneDrive\Pesquisa\2021_ArtigoQ1 2 Platyrhinni-Asus\Platy_paper\output\DEC_M1t7\BSM_results\BSM_rep1\RES_ana_events_tables.Rdata)
+
+...will load them to objects RES_clado_events_tables and RES_ana_events_tables.
+
+Now returning to console 'BSM_output', which contains:
+BSM_output$RES_clado_events_tables
+BSM_output$RES_ana_events_tables
+=============================================
+
+[1] "Completed replicate 1/10"
+405.45 sec elapsed
+[1] "Note: tipranges_to_tip_condlikes_of_data_on_each_state() is converting a states_list with (0-based) numbers to the equivalent areanames"
+
+check_BioGeoBEARS_run() says: FATAL ERROR in check_BioGeoBEARS_run(): the input tree has branchlengths <= 0, at these nodes:
+
+ 97 
+
+...And, at these edge numbers:
+
+ 198 
+
+  nodenums branchlengths edge_nums
+1       97             0       198
+
+This can sometimes happen in e.g. MCC (majority clade consensus) trees output by BEAST's TreeAnnotator.
+You must fix the Newick file. See ?check_BioGeoBEARS_run, and PhyloWiki, for comments. One option is to try impose_min_brlen() and then write the tree to a file.
+
+check_BioGeoBEARS_run() says: FATAL ERROR in check_BioGeoBEARS_run(): the input tree has branchlengths <= 0, at these nodes:
+
+ 97 
+
+...And, at these edge numbers:
+
+ 198 
+
+[1] "Total time elapsed:"
+Time difference of 7.374006 mins

@@ -22,6 +22,7 @@ trfn <- "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/P
 tr <- read.tree(trfn)
 plot(tr)
 axisPhylo()
+ltt.plot(tr)
 
 geogfn <- "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/data/Bioregions/dis10areas.txt"
 tipranges = getranges_from_LagrangePHYLIP(lgdata_fn = geogfn)
