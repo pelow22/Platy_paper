@@ -1,0 +1,246 @@
+#NEXUS
+[R-package APE, Wed Oct 27 16:38:17 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 116;
+	TAXLABELS
+		Acrecebus_fraileyi
+		Alouatta_belzebul
+		Alouatta_caraya
+		Alouatta_guariba
+		Alouatta_macconnelli
+		Alouatta_nigerrima
+		Alouatta_palliata
+		Alouatta_pigra
+		Alouatta_sara
+		Alouatta_seniculus
+		Antillothrix_bernensis
+		Aotus_azarae
+		Aotus_dindensis
+		Aotus_griseimembra
+		Aotus_lemurinus
+		Aotus_nancymaae
+		Aotus_nigriceps
+		Aotus_trivirgatus
+		Aotus_vociferans
+		Ateles_belzebuth
+		Ateles_chamek
+		Ateles_fusciceps
+		Ateles_geoffroyi
+		Ateles_hybridus
+		Ateles_paniscus
+		Brachyteles_arachnoides
+		Brachyteles_hypoxanthus
+		Branisella_boliviana
+		Cacajao_calvus
+		Cacajao_hosomi
+		Cacajao_melanocephalus
+		Caipora_bambuiorum
+		Callicebus_brunneus
+		Callicebus_caligatus
+		Callicebus_coimbrai
+		Callicebus_cupreus
+		Callicebus_donacophilus
+		Callicebus_hoffmannsi
+		Callicebus_lugens
+		Callicebus_moloch
+		Callicebus_nigrifrons
+		Callicebus_personatus
+		Callicebus_torquatus
+		Callimico_goeldii
+		Callithrix_aurita
+		Callithrix_geoffroyi
+		Callithrix_jacchus
+		Callithrix_kuhlii
+		Callithrix_penicillata
+		Canaanimico_amazonensis
+		Carlocebus_carmenensis
+		Cartelles_coimbrafilhoi
+		Cebuella_pygmaea
+		Cebupithecia_sarmientoi
+		Cebus_albifrons
+		Cebus_capucinus
+		Cebus_olivaceus
+		Chilecebus_carrascoensis
+		Chiropotes_chiropotes
+		Chiropotes_utahicki
+		Dolichocebus_gaimanensis
+		Homunculus_patagonicus
+		Insulacebus_toussentiana
+		Killikaike_blakei
+		Lagonimico_conclucatus
+		Lagothrix_cana
+		Lagothrix_lagotricha
+		Laventiana_annectens
+		Leontopithecus_chrysomelas
+		Leontopithecus_chrysopygus
+		Leontopithecus_rosalia
+		Mazzonicebus_almendrae
+		Mico_argentatus
+		Mico_emiliae
+		Mico_humeralifer
+		Mico_mauesi
+		Micodon_kyotensis
+		Miocallicebus_villaviejai
+		Mohanamico_hershkovitzi
+		Neosaimiri_fieldsi
+		Nuciruptor_rubricae
+		Panamacebus_transitus
+		Paralouatta_varonai
+		Patasola_magdalenae
+		Perupithecus_ucayaliensis
+		Pithecia_irrorata
+		Pithecia_monachus
+		Pithecia_pithecia
+		Proteropithecia_neuquenensis
+		Saguinus_bicolor
+		Saguinus_fuscicollis
+		Saguinus_geoffroyi
+		Saguinus_imperator
+		Saguinus_labiatus
+		Saguinus_martinsi
+		Saguinus_melanoleucus
+		Saguinus_midas
+		Saguinus_mystax
+		Saguinus_nigricollis
+		Saguinus_oedipus
+		Saguinus_tripartitus
+		Saimiri_boliviensis
+		Saimiri_oerstedii
+		Saimiri_sciureus
+		Saimiri_ustus
+		Sapajus_apella
+		Sapajus_libidinosus
+		Sapajus_robustus
+		Sapajus_xanthosternos
+		Solimoea_acrensis
+		Soriacebus_ameghinorum
+		Stirtonia_tatacoensis
+		Stirtonia_victoriae
+		Szalatavus_attricuspis
+		Tremacebus_harringtoni
+		Xenothrix_mcgregori
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Acrecebus_fraileyi,
+		2	Alouatta_belzebul,
+		3	Alouatta_caraya,
+		4	Alouatta_guariba,
+		5	Alouatta_macconnelli,
+		6	Alouatta_nigerrima,
+		7	Alouatta_palliata,
+		8	Alouatta_pigra,
+		9	Alouatta_sara,
+		10	Alouatta_seniculus,
+		11	Antillothrix_bernensis,
+		12	Aotus_azarae,
+		13	Aotus_dindensis,
+		14	Aotus_griseimembra,
+		15	Aotus_lemurinus,
+		16	Aotus_nancymaae,
+		17	Aotus_nigriceps,
+		18	Aotus_trivirgatus,
+		19	Aotus_vociferans,
+		20	Ateles_belzebuth,
+		21	Ateles_chamek,
+		22	Ateles_fusciceps,
+		23	Ateles_geoffroyi,
+		24	Ateles_hybridus,
+		25	Ateles_paniscus,
+		26	Brachyteles_arachnoides,
+		27	Brachyteles_hypoxanthus,
+		28	Branisella_boliviana,
+		29	Cacajao_calvus,
+		30	Cacajao_hosomi,
+		31	Cacajao_melanocephalus,
+		32	Caipora_bambuiorum,
+		33	Callicebus_brunneus,
+		34	Callicebus_caligatus,
+		35	Callicebus_coimbrai,
+		36	Callicebus_cupreus,
+		37	Callicebus_donacophilus,
+		38	Callicebus_hoffmannsi,
+		39	Callicebus_lugens,
+		40	Callicebus_moloch,
+		41	Callicebus_nigrifrons,
+		42	Callicebus_personatus,
+		43	Callicebus_torquatus,
+		44	Callimico_goeldii,
+		45	Callithrix_aurita,
+		46	Callithrix_geoffroyi,
+		47	Callithrix_jacchus,
+		48	Callithrix_kuhlii,
+		49	Callithrix_penicillata,
+		50	Canaanimico_amazonensis,
+		51	Carlocebus_carmenensis,
+		52	Cartelles_coimbrafilhoi,
+		53	Cebuella_pygmaea,
+		54	Cebupithecia_sarmientoi,
+		55	Cebus_albifrons,
+		56	Cebus_capucinus,
+		57	Cebus_olivaceus,
+		58	Chilecebus_carrascoensis,
+		59	Chiropotes_chiropotes,
+		60	Chiropotes_utahicki,
+		61	Dolichocebus_gaimanensis,
+		62	Homunculus_patagonicus,
+		63	Insulacebus_toussentiana,
+		64	Killikaike_blakei,
+		65	Lagonimico_conclucatus,
+		66	Lagothrix_cana,
+		67	Lagothrix_lagotricha,
+		68	Laventiana_annectens,
+		69	Leontopithecus_chrysomelas,
+		70	Leontopithecus_chrysopygus,
+		71	Leontopithecus_rosalia,
+		72	Mazzonicebus_almendrae,
+		73	Mico_argentatus,
+		74	Mico_emiliae,
+		75	Mico_humeralifer,
+		76	Mico_mauesi,
+		77	Micodon_kyotensis,
+		78	Miocallicebus_villaviejai,
+		79	Mohanamico_hershkovitzi,
+		80	Neosaimiri_fieldsi,
+		81	Nuciruptor_rubricae,
+		82	Panamacebus_transitus,
+		83	Paralouatta_varonai,
+		84	Patasola_magdalenae,
+		85	Perupithecus_ucayaliensis,
+		86	Pithecia_irrorata,
+		87	Pithecia_monachus,
+		88	Pithecia_pithecia,
+		89	Proteropithecia_neuquenensis,
+		90	Saguinus_bicolor,
+		91	Saguinus_fuscicollis,
+		92	Saguinus_geoffroyi,
+		93	Saguinus_imperator,
+		94	Saguinus_labiatus,
+		95	Saguinus_martinsi,
+		96	Saguinus_melanoleucus,
+		97	Saguinus_midas,
+		98	Saguinus_mystax,
+		99	Saguinus_nigricollis,
+		100	Saguinus_oedipus,
+		101	Saguinus_tripartitus,
+		102	Saimiri_boliviensis,
+		103	Saimiri_oerstedii,
+		104	Saimiri_sciureus,
+		105	Saimiri_ustus,
+		106	Sapajus_apella,
+		107	Sapajus_libidinosus,
+		108	Sapajus_robustus,
+		109	Sapajus_xanthosternos,
+		110	Solimoea_acrensis,
+		111	Soriacebus_ameghinorum,
+		112	Stirtonia_tatacoensis,
+		113	Stirtonia_victoriae,
+		114	Szalatavus_attricuspis,
+		115	Tremacebus_harringtoni,
+		116	Xenothrix_mcgregori
+	;
+	TREE * UNTITLED = [&R] (((((((((((((((((75:1.030404586,76:1.030404586):1.648237255,73:2.678641841):0.2304765993,74:2.90911844):2.201281354,53:5.110399794):1.672325382,((((47:0.3498007826,49:0.3498007826):1.409311199,48:1.759111982):0.2544263109,46:2.013538293):2.032470939,45:4.046009231):2.736715944):4.477096224,44:11.2598214):1.354719005,(((70:0.2886812642,71:0.2886812642):0.4526451882,69:0.7413264524):11.75867355,77:0):0.114540405):2.379987159,(((((90:2.304281954,95:2.304281954):1.67851461,97:3.982796564):2.147219477,(92:1.246310554,100:1.246310554):4.883705488):1.524154989,((94:2.174707007,98:2.174707007):3.231079738,93:5.405786745):2.248384286):1.866095849,((91:2.391833967,101:2.391833967):0.5499771476,(99:2.87592964,96:2.87592964):0.06588147512):6.578455765):5.474260684):6.772835452,((((((14:1.89609134,15:1.89609134):1.599317708,18:3.495409048):1.108909285,19:4.604318333):0.9205676056,((12:2.076939081,17:2.076939081):2.317507416,16:4.394446497):1.130439442):7.25635429,13:0.2812402286):7.269788919,115:0.0510291474):1.716333868):0.5415222776,(((((((106:0.5666197016,107:0.5666197016):2.565749899,(108:2.642871736,109:2.642871736):0.4894978654):3.808708472,((55:1.767644159,57:1.767644159):0.7078295491,56:2.475473708):4.465604365):0.5675038976,1:0.008581970704):4.991418029,84:0):6.651720219,(((((103:1.407375885,104:1.407375885):1.371410629,105:2.778786514):0.688912706,102:3.46769922):12.22510242,(68:2.564375877,80:2.564375877):0.6284257612):0.8071983614,64:0):2.651720219):2.798976309,(82:0,61:0.93):1.020696528):0.3581887652):0.679331552,58:2.898216845):3.202211919,(((((((((((5:0.01965615349,10:0.01965615349):0.283137604,6:0.3027937575):1.24402461,9:1.546818368):2.062023513,3:3.608841881):0.8205312739,(2:3.788198714,4:3.788198714):0.6411744408):2.493864875,(7:3.826229278,8:3.826229278):3.097008751):2.520231053,(83:0,52:1.235):8.188469082):6.179264666,113:3.122733748):3.137376978,112:6.260110726):2.705033495,(((((((20:2.491238044,23:2.491238044):0.2750192208,24:2.766257265):1.013426868,22:3.779684133):0.4172791058,(21:0.7378607367,25:0.7378607367):3.459102502):4.414070943,32:8.591034182):6.810490545,((26:3.137261723,27:3.137261723):10.25828934,(66:0.5416759211,67:0.5416759211):12.85387514):2.025973663):1.707182366,110:9.628707092):4.336437129):2.839525912,79:11.80467013):1.88575863):2.582520869,((((((((((((33:0.8100794993,38:0.8100794993):1.930865646,40:2.740945145):0.5886998276,36:3.329644973):1.081764212,(34:1.966308557,37:1.966308557):2.445100628):2.467424255,((35:2.662054301,42:2.662054301):1.625492304,41:4.287546605):2.591286835):2.942281927,(39:1.50798357,43:1.50798357):8.313131797):2.985338088,78:0.306453455):5.216492792,51:1.022946247):0.09741032003,62:1.620356567):3.166444531,((116:1.317855,11:0):0.09378855241,63:1.403788552):19.87301255):4.665034946,(((((((30:1.399860435,31:1.399860434):1.740755026,29:3.14061546):6.019827619,(59:1.779651143,60:1.779651143):7.380791937):6.197473676,((((86:0.7561067166,87:0.7561067166):4.040618902,88:4.796725619):7.703274381,81:0):2.586173973,54:2.586173973):0.2717427817):0.3420832451,89:0):2.313366326,111:1.013366326):3.430122358,72:1.443488684):4.50834736):0.7322632297,50:0.1240992734):2.08885036):0.3111958318,65:16.58414546):0.9842771659,114:3.648422631):1.251078434,28:4.899501064):6.180498936,85:0);
+	TREE * UNTITLED = [&R] (((((((((((((((75:0.9544673427,76:0.9544673427):0.05432402074,74:1.008791363):2.237099488,73:3.245890852):2.85357949,53:6.099470341):1.628479973,((((47:0.7857147685,49:0.7857147685):0.9708961213,48:1.75661089):0.06925282802,46:1.825863718):2.371326416,45:4.197190134):3.53076018):6.262347871,44:13.99029818):1.909877303,((70:0.2211549036,71:0.2211549036):0.1784141132,69:0.3995690168):15.50060647):1.36571165,((((((90:1.898901686,95:1.898901686):1.558684888,97:3.457586574):3.014152242,(92:0.5800252317,100:0.5800252317):5.891713584):1.000622258,((94:1.98195895,98:1.98195895):1.489816819,93:3.47177577):4.000585304):0.9690960571,(((99:3.208781366,101:3.208781366):0.08926209709,96:3.298043463):0.5745231992,91:3.872566662):4.568890469):4.058542869,77:0):4.765887138):4.735622675,((((((14:1.113817088,15:1.113817088):1.412436642,18:2.52625373):0.2832202586,19:2.809473988):1.950259565,((12:1.914496132,17:1.914496132):2.395885248,16:4.31038138):0.4493521734):7.900326115,13:0.1600596681):7.619262795,115:0.279322463):1.72218735):1.385433422,((((((((106:0.7492888459,107:0.7492888459):3.08757866,(108:2.902261305,109:2.902261305):0.9346062014):5.105871221,((55:1.538353485,57:1.538353485):0.234052725,56:1.77240621):7.170332517):1.088796261,1:2.531534988):9.196387981,(64:0,84:4):2.727922968):0.8824513581,(((((103:0.795393007,104:0.795393007):1.02620986,105:1.821602867):0.6227740944,102:2.444376962):10.05562304,68:0):1.926678859,80:1.926678859):5.683695467):0.8196256738,82:0):0.5738750958,61:1.503875096):1.883068139):2.999587218,(((((((((((5:0.06058413528,10:0.06058413528):0.2691859645,6:0.3297700997):1.729075113,9:2.058845212):1.341393647,3:3.40023886):0.5981614212,(2:3.383242319,4:3.383242319):0.6151579621):1.009949778,(7:2.830999706,8:2.830999706):2.177350353):2.227839751,(83:5.655113769,52:6.890113769):0.3260760418):10.74285698,113:5.479046793):3.178232678,112:8.657279471):0.3208729896,((((((20:1.145744295,23:1.145744295):0.6296679632,24:1.775412258):0.2768236599,22:2.052235918):1.628901958,(21:0.7313657592,25:0.7313657592):2.949772117):6.702410642,(((66:0.9147715204,67:0.9147715204):0.05357296681,32:0.9483444872):8.422749615,(26:3.800350904,27:3.800350904):5.590743198):0.9924544149):0.2840703389,110:3.167618856):10.8105336):2.343893223,(58:1.41805638,79:9.00805638):2.313989303):2.564484769):0.3026053327,65:14.18913578):0.6270449157,(((((((((((33:0.03217894157,38:0.03217894157):2.175009365,40:2.207188306):0.1101782325,36:2.317366539):1.639127683,(34:1.333905114,37:1.333905114):2.622589108):4.01630787,((35:1.987534059,42:1.987534059):1.411394753,41:3.398928813):4.573873279):1.959502307,(39:3.096085503,43:3.096085503):6.836218896):3.486451308,78:0.9187557068):3.081244293,62:0):3.720613118,51:3.220613118):2.393307724,((63:1.153949379,116:1.161804379):0.156050621,11:0):21.29392084):0.7708863742,(((((((30:1.252345057,31:1.252345056):1.112412837,29:2.364757894):5.503023632,(59:2.196789854,60:2.196789853):5.670991672):5.046253354,((86:0.1936189046,87:0.1936189046):5.161194908,88:5.354813813):7.559221067):7.794283341,(111:0.5531852891,89:1.853185289):3.155132932):0.03207245988,(54:4.120516853,81:4.120516853):4.119873828):0.2611118929,72:1.001502574):2.383304642):3.931373484):0.9289509969,((50:0,114:0.14):0.5850622852,28:0.7250622852):1.100069412):11.08981204,85:1.834943735);
+END;

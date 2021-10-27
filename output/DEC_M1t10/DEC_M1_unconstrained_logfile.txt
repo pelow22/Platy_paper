@@ -1,0 +1,816 @@
+[1] "Total time elapsed:"
+Time difference of 20.49737 secs
+
+10 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+125:214,126:81,anc:213; 135:189,136:1,anc:188; 153:188,154:84,anc:187; 155:196,156:64,anc:195; 177:207,178:89,anc:206; 229:118,230:85,anc:117; 
+
+
+Originally, 6 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 1"
+[1] "Corrected branch length of taxon 11 in tree 1"
+[1] "Corrected branch length of taxon 13 in tree 1"
+[1] "Corrected branch length of taxon 28 in tree 1"
+[1] "Corrected branch length of taxon 50 in tree 1"
+[1] "Corrected branch length of taxon 51 in tree 1"
+[1] "Corrected branch length of taxon 54 in tree 1"
+[1] "Corrected branch length of taxon 58 in tree 1"
+[1] "Corrected branch length of taxon 61 in tree 1"
+[1] "Corrected branch length of taxon 62 in tree 1"
+[1] "Corrected branch length of taxon 64 in tree 1"
+[1] "Corrected branch length of taxon 65 in tree 1"
+[1] "Corrected branch length of taxon 68 in tree 1"
+[1] "Corrected branch length of taxon 72 in tree 1"
+[1] "Corrected branch length of taxon 77 in tree 1"
+[1] "Corrected branch length of taxon 78 in tree 1"
+[1] "Corrected branch length of taxon 79 in tree 1"
+[1] "Corrected branch length of taxon 80 in tree 1"
+[1] "Corrected branch length of taxon 81 in tree 1"
+[1] "Corrected branch length of taxon 82 in tree 1"
+[1] "Corrected branch length of taxon 83 in tree 1"
+[1] "Corrected branch length of taxon 84 in tree 1"
+[1] "Corrected branch length of taxon 85 in tree 1"
+[1] "Corrected branch length of taxon 89 in tree 1"
+[1] "Corrected branch length of taxon 110 in tree 1"
+[1] "Corrected branch length of taxon 111 in tree 1"
+[1] "Corrected branch length of taxon 112 in tree 1"
+[1] "Corrected branch length of taxon 113 in tree 1"
+[1] "Corrected branch length of taxon 114 in tree 1"
+[1] "Corrected branch length of taxon 115 in tree 1"
+
+7 branches found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+143:198,144:68,anc:197; 173:173,174:77,anc:172; 189:186,190:82,anc:185; 203:217,204:62,anc:216; 
+
+
+Originally, 4 (non-ancestor) branches were found < min_brlen (0.01). Running downpass to edit branchlengths by pushing nodes down so that minimum branchlength=0.01. Adjusting i:Leftnode,j:Rightnode,anc:Ancnode;...
+
+New observed_min_brlen_new=0
+[1] "Corrected branch length of taxon 1 in tree 2"
+[1] "Corrected branch length of taxon 11 in tree 2"
+[1] "Corrected branch length of taxon 13 in tree 2"
+[1] "Corrected branch length of taxon 28 in tree 2"
+[1] "Corrected branch length of taxon 50 in tree 2"
+[1] "Corrected branch length of taxon 51 in tree 2"
+[1] "Corrected branch length of taxon 54 in tree 2"
+[1] "Corrected branch length of taxon 58 in tree 2"
+[1] "Corrected branch length of taxon 61 in tree 2"
+[1] "Corrected branch length of taxon 62 in tree 2"
+[1] "Corrected branch length of taxon 64 in tree 2"
+[1] "Corrected branch length of taxon 65 in tree 2"
+[1] "Corrected branch length of taxon 68 in tree 2"
+[1] "Corrected branch length of taxon 72 in tree 2"
+[1] "Corrected branch length of taxon 77 in tree 2"
+[1] "Corrected branch length of taxon 78 in tree 2"
+[1] "Corrected branch length of taxon 79 in tree 2"
+[1] "Corrected branch length of taxon 80 in tree 2"
+[1] "Corrected branch length of taxon 81 in tree 2"
+[1] "Corrected branch length of taxon 82 in tree 2"
+[1] "Corrected branch length of taxon 83 in tree 2"
+[1] "Corrected branch length of taxon 84 in tree 2"
+[1] "Corrected branch length of taxon 85 in tree 2"
+[1] "Corrected branch length of taxon 89 in tree 2"
+[1] "Corrected branch length of taxon 110 in tree 2"
+[1] "Corrected branch length of taxon 111 in tree 2"
+[1] "Corrected branch length of taxon 112 in tree 2"
+[1] "Corrected branch length of taxon 113 in tree 2"
+[1] "Corrected branch length of taxon 114 in tree 2"
+[1] "Corrected branch length of taxon 115 in tree 2"
+[1] "Polytomous trees forcibly resolved: 0"
+0.53 sec elapsed
+[1] "Note: tipranges_to_tip_condlikes_of_data_on_each_state() is converting a states_list with (0-based) numbers to the equivalent areanames"
+
+Your computer has 8 cores.
+
+Your computer has 8 cores. You have chosen to use:
+num_cores_to_use = 8 cores for the matrix exponentiations in the likelihood calculations.
+Started cluster with 8 cores.
+
+[1] "parscale:"
+[1] 1 1
+
+
+NOTE: Before running optimx(), here is a test calculation of the data likelihood
+using calc_loglike_for_optim() on initial parameter values, with printlevel=2...
+if this crashes, the error messages are more helpful
+than those from inside optimx().
+
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.849
+
+calc_loglike_for_optim() on initial parameters loglike=-315.8489
+
+
+
+Calculation of likelihood on initial parameters: successful.
+
+Now starting Maximum Likelihood (ML) parameter optimization with optimx()...
+
+
+
+Printing any warnings() that occurred during calc_loglike_for_optim():
+
+Mensagem de aviso:
+In file(file, "r") :
+  não foi possível abrir o arquivo 'DEC_M1t10/trees/tree1.nex': No such file or directory
+
+
+Results of optimx_scalecheck() below. Note: sometimes rescaling parameters may be helpful for ML searches, when the parameters have much different absolute sizes. This can be attempted by setting BioGeoBEARS_run_object$rescale_params = TRUE.
+
+$lpratio
+[1] 0
+
+$lbratio
+[1] 0
+
+Maximizing -- use negfn and neggr
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.849
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.849
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.849
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.012 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -317.508
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.951
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -316.265
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.661
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.004 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.91
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.661
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.66
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.652
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.651
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.651
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.889
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.925
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.712
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.717
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.666
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.667
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.654
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.654
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.658
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.007 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.659
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.652
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.007 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.652
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.651
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.651
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.877
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.007 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.913
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.709
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.007 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.714
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.665
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.666
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.654
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.654
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.009 0.008 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -315.65
+
+
+This is the output from optim, optimx, or GenSA. Check the help on those functions to
+interpret this output and check for convergence issues:
+
+                p1          p2     value fevals gevals niter convcode  kkt1 kkt2 xtime
+bobyqa 0.009191462 0.007714762 -315.6502     34     NA    NA        0 FALSE TRUE 12.11
+
+
+Stopping cluster with 8 cores.
+
+
+Your computer has 8 cores.
+
+Your computer has 8 cores. You have chosen to use:
+num_cores_to_use = 8 cores for the matrix exponentiations in the likelihood calculations.
+Started cluster with 8 cores.
+
+
+
+Currently, cluster_already_open=socket cluster with 8 nodes on host ‘localhost’
+
+Detected NON-stratified input. Running get_inputs_for_stochastic_mapping_from_results_object().
+
+
+Pre-calculating the independent likelihoods on each branch...
+Currently, cluster_already_open=socket cluster with 8 nodes on host ‘localhost’
+
+
+
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #1/10 on stochastic mapping attempt #1/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 
+
+Error_in_stochastic_simulation; no success on branch below node 90 after 40000 tries. Printing starting/ending states, and events table for last attempt.
+
+Starting state (1-based): 6
+
+Ending state (1-based): 36
+Goal state (1-based): 21
+
+[1] "Last attempt at events_table_for_branch:"
+
+
+NULL
+
+
+
+Error in stochastic_map_branch(): Stochastic mapping failed after maxtries=40000 tries on branch below node=90
+As manual_history_for_difficult_branches==TRUE, we are manually devising a history to force-fit a difficult branch (e.g. AB -> ACEDFGH)... 
+
+NOTE: This fix will run, but will NOT work correctly for pure '+a' models (as of 2016-05-07) where d and/or e equals 0, since the manual fix forces a random series of d and e events, on the theory that the events must be super-rare since maxtries failed, so we might as well order them randomly (subject to the constraint that the range is never NULL). For +a models, try increasing maxtries instead. 
+Starting range:  E 
+Desired ending range:  BC 
+
+
+
+
+[1] "stochastic_map_branch() found this 'manual' (required range add/subtract events, uniform random distribution on branch) events_table_for_branch:"
+
+
+       [,1] [,2]    [,3]          [,4] [,5] [,6]  [,7]  [,8]               [,9]               [,10] [,11]     [,12] [,13]
+tmprow "90" "40002" "4.287546605" "6"  "30" "E"   "CE"  "3.28512782518604" "1.00241878208396" "d"   "E->CE"   "3"   "-"  
+tmprow "90" "40002" "4.287546605" "30" "94" "CE"  "BCE" "2.87716540701703" "1.41038120025297" "d"   "CE->BCE" "2"   "-"  
+tmprow "90" "40002" "4.287546605" "94" "21" "BCE" "BC"  "1.43880041484059" "2.84874619242941" "e"   "BCE->BC" "-"   "5"  
+       [,14] [,15]
+tmprow "C"   "-"  
+tmprow "B"   "-"  
+tmprow "-"   "E"  
+
+
+93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #2/10 on stochastic mapping attempt #2/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #3/10 on stochastic mapping attempt #3/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #4/10 on stochastic mapping attempt #4/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #5/10 on stochastic mapping attempt #5/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #6/10 on stochastic mapping attempt #6/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #7/10 on stochastic mapping attempt #7/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #8/10 on stochastic mapping attempt #8/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #9/10 on stochastic mapping attempt #9/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:115,anc:118; 225:120,226:114,anc:119; 223:121,224:113,anc:120; 221:122,222:202,anc:121; 219:203,220:112,anc:202; 217:123,218:177,anc:122; 215:204,216:220,anc:203; 213:178,214:81,anc:177; 211:124,212:55,anc:123; 209:205,210:218,anc:204; 207:179,208:191,anc:178; 205:125,206:160,anc:124; 203:206,204:95,anc:205; 201:180,202:68,anc:179; 199:126,200:152,anc:125; 197:221,198:111,anc:220; 195:207,196:94,anc:206; 193:181,194:67,anc:180; 191:127,192:141,anc:126; 189:222,190:110,anc:221; 187:208,188:93,anc:207; 185:192,186:80,anc:191; 183:182,184:190,anc:181; 181:161,182:176,anc:160; 179:128,180:138,anc:127; 177:223,178:109,anc:222; 175:209,176:217,anc:208; 173:193,174:199,anc:192; 171:183,172:189,anc:182; 169:162,170:170,anc:161; 167:153,168:36,anc:152; 165:129,166:11,anc:128; 163:224,164:228,anc:223; 161:210,162:215,anc:209; 159:194,160:75,anc:193; 157:184,158:188,anc:183; 155:171,156:52,anc:170; 153:163,154:45,anc:162; 151:154,152:35,anc:153; 149:142,150:149,anc:141; 147:130,148:134,anc:129; 145:229,146:108,anc:228; 143:211,144:214,anc:210; 141:195,142:198,anc:194; 139:185,140:60,anc:184; 137:172,138:175,anc:171; 135:164,136:44,anc:163; 133:155,134:158,anc:154; 131:143,132:147,anc:142; 129:135,130:10,anc:134; 127:131,128:5,anc:130; 125:230,126:107,anc:229; 123:225,124:227,anc:224; 121:212,122:85,anc:211; 119:196,120:72,anc:195; 117:186,118:59,anc:185; 115:173,116:49,anc:172; 113:165,114:168,anc:164; 111:156,112:31,anc:155; 109:144,110:146,anc:143; 107:139,108:15,anc:138; 105:136,106:9,anc:135; 103:132,104:4,anc:131; 101:231,102:106,anc:230; 99:226,100:101,anc:225; 97:219,98:98,anc:218; 95:216,96:90,anc:215; 93:213,94:84,anc:212; 91:200,92:201,anc:199; 89:197,90:71,anc:196; 87:187,88:58,anc:186; 85:174,86:48,anc:173; 83:169,84:43,anc:168; 81:166,82:167,anc:165; 79:159,80:34,anc:158; 77:157,78:30,anc:156; 75:150,76:151,anc:149; 73:148,74:23,anc:147; 71:145,72:18,anc:144; 69:140,70:14,anc:139; 67:137,68:8,anc:136; 65:133,66:3,anc:132; 63:104,64:105,anc:231; 61:102,62:103,anc:227; 59:99,60:100,anc:226; 57:96,58:97,anc:219; 55:91,56:92,anc:217; 53:88,54:89,anc:216; 51:86,52:87,anc:214; 49:82,50:83,anc:213; 47:78,48:79,anc:201; 45:76,46:77,anc:200; 43:73,44:74,anc:198; 41:69,42:70,anc:197; 39:65,40:66,anc:190; 37:63,38:64,anc:189; 35:61,36:62,anc:188; 33:56,34:57,anc:187; 31:53,32:54,anc:176; 29:50,30:51,anc:175; 27:46,28:47,anc:174; 25:41,26:42,anc:169; 23:39,24:40,anc:167; 21:37,22:38,anc:166; 19:32,20:33,anc:159; 17:28,18:29,anc:157; 15:26,16:27,anc:151; 13:24,14:25,anc:150; 11:21,12:22,anc:148; 9:19,10:20,anc:146; 7:16,8:17,anc:145; 5:12,6:13,anc:140; 3:6,4:7,anc:137; 1:1,2:2,anc:133; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #10/10 on stochastic mapping attempt #10/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+
+
+=============================================
+Biogeographic Stochastic Mapping is finished.
+
+Saving cladogenetic and anagenetic events tables. The commands:
+
+load(file=D:\Usuários\peter\OneDrive\Pesquisa\2021_ArtigoQ1 2 Platyrhinni-Asus\Platy_paper\output\DEC_M1t10\BSM_results\BSM_rep1\RES_clado_events_tables.Rdata)
+
+load(file=D:\Usuários\peter\OneDrive\Pesquisa\2021_ArtigoQ1 2 Platyrhinni-Asus\Platy_paper\output\DEC_M1t10\BSM_results\BSM_rep1\RES_ana_events_tables.Rdata)
+
+...will load them to objects RES_clado_events_tables and RES_ana_events_tables.
+
+Now returning to console 'BSM_output', which contains:
+BSM_output$RES_clado_events_tables
+BSM_output$RES_ana_events_tables
+=============================================
+
+[1] "Completed replicate 1/2"
+453.79 sec elapsed
+[1] "Note: tipranges_to_tip_condlikes_of_data_on_each_state() is converting a states_list with (0-based) numbers to the equivalent areanames"
+
+Your computer has 8 cores.
+
+Your computer has 8 cores. You have chosen to use:
+num_cores_to_use = 8 cores for the matrix exponentiations in the likelihood calculations.
+Started cluster with 8 cores.
+
+[1] "parscale:"
+[1] 1 1
+
+
+NOTE: Before running optimx(), here is a test calculation of the data likelihood
+using calc_loglike_for_optim() on initial parameter values, with printlevel=2...
+if this crashes, the error messages are more helpful
+than those from inside optimx().
+
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.422
+
+calc_loglike_for_optim() on initial parameters loglike=-321.4224
+
+
+
+Calculation of likelihood on initial parameters: successful.
+
+Now starting Maximum Likelihood (ML) parameter optimization with optimx()...
+
+
+
+Printing any warnings() that occurred during calc_loglike_for_optim():
+
+Mensagem de aviso:
+In file(file, "r") :
+  não foi possível abrir o arquivo 'DEC_M1t10/trees/tree1.nex': No such file or directory
+
+
+Results of optimx_scalecheck() below. Note: sometimes rescaling parameters may be helpful for ML searches, when the parameters have much different absolute sizes. This can be attempted by setting BioGeoBEARS_run_object$rescale_params = TRUE.
+
+$lpratio
+[1] 0
+
+$lbratio
+[1] 0
+
+Maximizing -- use negfn and neggr
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.422
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.422
+     d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.422
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.012 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -322.479
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.381
+      d    e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.008 0.01 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -322.455
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.014 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.43
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.381
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.399
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.386
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.381
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.011 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.62
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.655
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.442
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.446
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.396
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.396
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.384
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.384
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.013 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.395
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.397
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.384
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.384
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.381
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.381
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.011 0.013 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.604
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.639
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.438
+      d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.009 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.442
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.395
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.011 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.395
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.384
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp      LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.384
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+     d     e a b x n w u j ysv ys y s v mx01 mx01j mx01y mx01s mx01v mx01r  mf dp fdp     LnL
+1 0.01 0.012 0 1 0 0 1 0 0   3  2 1 1 1    0     0     0     0     0   0.5 0.1  1   0 -321.38
+
+
+This is the output from optim, optimx, or GenSA. Check the help on those functions to
+interpret this output and check for convergence issues:
+
+                p1         p2     value fevals gevals niter convcode  kkt1 kkt2 xtime
+bobyqa 0.009945223 0.01179182 -321.3801     30     NA    NA        0 FALSE TRUE 10.18
+
+
+Stopping cluster with 8 cores.
+
+
+Your computer has 8 cores.
+
+Your computer has 8 cores. You have chosen to use:
+num_cores_to_use = 8 cores for the matrix exponentiations in the likelihood calculations.
+Started cluster with 8 cores.
+
+
+
+Currently, cluster_already_open=socket cluster with 8 nodes on host ‘localhost’
+
+Detected NON-stratified input. Running get_inputs_for_stochastic_mapping_from_results_object().
+
+
+Pre-calculating the independent likelihoods on each branch...
+Currently, cluster_already_open=socket cluster with 8 nodes on host ‘localhost’
+
+
+
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #1/10 on stochastic mapping attempt #1/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #2/10 on stochastic mapping attempt #2/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #3/10 on stochastic mapping attempt #3/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #4/10 on stochastic mapping attempt #4/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #5/10 on stochastic mapping attempt #5/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #6/10 on stochastic mapping attempt #6/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #7/10 on stochastic mapping attempt #7/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #8/10 on stochastic mapping attempt #8/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #9/10 on stochastic mapping attempt #9/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+Beginning stochastic mapping UPPASS (i:Leftnode,j:Rightnode,anc:Ancnode;):
+229:118,230:116,anc:117; 227:119,228:230,anc:118; 225:120,226:201,anc:119; 223:121,224:82,anc:120; 221:122,222:175,anc:121; 219:202,220:218,anc:201; 217:176,218:200,anc:175; 215:203,216:216,anc:202; 213:177,214:189,anc:176; 211:123,212:158,anc:122; 209:204,210:96,anc:203; 207:178,208:67,anc:177; 205:124,206:150,anc:123; 203:205,204:95,anc:204; 201:179,202:66,anc:178; 199:159,200:54,anc:158; 197:125,198:138,anc:124; 195:219,196:112,anc:218; 193:206,194:94,anc:205; 191:180,192:188,anc:179; 189:160,190:53,anc:159; 187:126,188:136,anc:125; 185:220,186:229,anc:219; 183:207,184:215,anc:206; 181:190,182:79,anc:189; 179:181,180:187,anc:180; 177:161,178:170,anc:160; 175:151,176:36,anc:150; 173:139,174:27,anc:138; 171:127,172:11,anc:126; 169:221,170:228,anc:220; 167:208,168:213,anc:207; 165:191,166:196,anc:190; 163:182,164:186,anc:181; 161:171,162:52,anc:170; 159:162,160:169,anc:161; 157:152,158:35,anc:151; 155:140,156:147,anc:139; 153:128,154:132,anc:127; 151:222,152:226,anc:221; 149:209,150:212,anc:208; 147:192,148:195,anc:191; 145:183,146:59,anc:182; 143:172,144:51,anc:171; 141:163,142:44,anc:162; 139:153,140:156,anc:152; 137:141,138:145,anc:140; 135:133,136:10,anc:132; 133:129,134:5,anc:128; 131:223,132:225,anc:222; 129:210,130:86,anc:209; 127:197,128:199,anc:196; 125:193,126:71,anc:192; 123:184,124:58,anc:183; 121:173,122:50,anc:172; 119:164,120:167,anc:163; 117:154,118:31,anc:153; 115:148,116:26,anc:147; 113:142,114:144,anc:141; 111:134,112:9,anc:133; 109:130,110:4,anc:129; 107:231,108:115,anc:230; 105:227,106:107,anc:226; 103:224,104:102,anc:223; 101:217,102:99,anc:216; 99:214,100:91,anc:213; 97:211,98:85,anc:210; 95:198,96:76,anc:197; 93:194,94:70,anc:193; 91:185,92:57,anc:184; 89:174,90:49,anc:173; 87:168,88:43,anc:167; 85:165,86:166,anc:164; 83:157,84:34,anc:156; 81:155,82:30,anc:154; 79:149,80:25,anc:148; 77:146,78:22,anc:145; 75:143,76:17,anc:142; 73:137,74:14,anc:136; 71:135,72:8,anc:134; 69:131,70:3,anc:130; 67:113,68:114,anc:231; 65:110,66:111,anc:229; 63:108,64:109,anc:228; 61:105,62:106,anc:227; 59:103,60:104,anc:225; 57:100,58:101,anc:224; 55:97,56:98,anc:217; 53:92,54:93,anc:215; 51:89,52:90,anc:214; 49:87,50:88,anc:212; 47:83,48:84,anc:211; 45:80,46:81,anc:200; 43:77,44:78,anc:199; 41:74,42:75,anc:198; 39:72,40:73,anc:195; 37:68,38:69,anc:194; 35:64,36:65,anc:188; 33:62,34:63,anc:187; 31:60,32:61,anc:186; 29:55,30:56,anc:185; 27:47,28:48,anc:174; 25:45,26:46,anc:169; 23:41,24:42,anc:168; 21:39,22:40,anc:166; 19:37,20:38,anc:165; 17:32,18:33,anc:157; 15:28,16:29,anc:155; 13:23,14:24,anc:149; 11:20,12:21,anc:146; 9:18,10:19,anc:144; 7:15,8:16,anc:143; 5:12,6:13,anc:137; 3:6,4:7,anc:135; 1:1,2:2,anc:131; 
+...finished stochastic mapping UPPASS.
+Adding cladogenetic events and re-arranging columns...
+DONE adding cladogenetic events and re-arranging columns.
+FINISHING stochastic_map_given_inputs().
+
+Success #10/10 on stochastic mapping attempt #10/100 tries....saving to RES_clado_events_tables_PARTIAL.Rdata...saved 'RES_clado_events_tables_PARTIAL.Rdata'
+...saved 'RES_ana_events_tables_PARTIAL.Rdata'
+
+
+=============================================
+Biogeographic Stochastic Mapping is finished.
+
+Saving cladogenetic and anagenetic events tables. The commands:
+
+load(file=D:\Usuários\peter\OneDrive\Pesquisa\2021_ArtigoQ1 2 Platyrhinni-Asus\Platy_paper\output\DEC_M1t10\BSM_results\BSM_rep2\RES_clado_events_tables.Rdata)
+
+load(file=D:\Usuários\peter\OneDrive\Pesquisa\2021_ArtigoQ1 2 Platyrhinni-Asus\Platy_paper\output\DEC_M1t10\BSM_results\BSM_rep2\RES_ana_events_tables.Rdata)
+
+...will load them to objects RES_clado_events_tables and RES_ana_events_tables.
+
+Now returning to console 'BSM_output', which contains:
+BSM_output$RES_clado_events_tables
+BSM_output$RES_ana_events_tables
+=============================================
+
+[1] "Completed replicate 2/2"
+424.85 sec elapsed
+[1] "Get the average number of transitions between ranges from the stochastic maps..."
+0.56 sec elapsed
+[1] "Get the average number of events for each replicate..."
+0.39 sec elapsed
+[1] "Calculate SD for most common events..."
+[1] "This is slow... sorry! :("
+[1] "1/2 completed..."
+[1] "2/2 completed..."
+4.4 sec elapsed
+[1] "Total time elapsed:"
+Time difference of 15.53353 mins

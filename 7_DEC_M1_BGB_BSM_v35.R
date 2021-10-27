@@ -39,7 +39,7 @@
 	#analysis name to be appended to output files
 		filename <- "DEC_M1_unconstrained"
 	#name of the output directory	
-		dir_name <- "DEC_M1t7"
+		dir_name <- "DEC_M1t8"
 		if(file.exists(dir_name)==FALSE) dir.create(dir_name)
 	#logfile
 		sink(paste(dir_name,"/",filename, "_logfile.txt", sep=""), append=TRUE, split=TRUE)
