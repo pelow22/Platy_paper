@@ -39,7 +39,7 @@
 	#analysis name to be appended to output files
 		filename <- "DEC_M1_unconstrained"
 	#name of the output directory	
-		dir_name <- "DEC_M1t8"
+		dir_name <- "DEC_M1"
 		if(file.exists(dir_name)==FALSE) dir.create(dir_name)
 	#logfile
 		sink(paste(dir_name,"/",filename, "_logfile.txt", sep=""), append=TRUE, split=TRUE)
@@ -66,7 +66,7 @@
 	### TREES
 		#file with the posterior trees. This script assumes you have already discarded the pre-burn-in trees
 			#you can use the output of BEAST's LogCombiner directly
-				posterior_trees_fn <- "phylo_Platy_Silvestro_2019_namesOK_droptipsOK.txt"
+				posterior_trees_fn <- "phylo_Platy_Silvestro_2019_namesOK_droptipsOK2.txt"
 		#number of trees to be sampled from the posterior distribution
 			# set this to 1 only if you are providing a file with a single consensus / maximum clade credibility tree,
 			# or any other single, target tree
@@ -77,7 +77,7 @@
 			fossil_tips = TRUE
 	### DISTRIBUTIONS
 		# name of the file containing the distributions
-			geogfn = "dis10areas.txt"
+			geogfn = "dis10areas2.txt"
 			tipranges = getranges_from_LagrangePHYLIP(geogfn)
 		#gets the species names from the distribution file
 		#species without range data will be dropped from the trees later, so check this carefully!
