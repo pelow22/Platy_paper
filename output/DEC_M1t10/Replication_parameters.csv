@@ -1,3 +1,0 @@
-"","replication","log-likelihood","AICc","k","n_taxa","d","e","j","w","treeHeight","in_situ_speciation_mean","founder_event_speciation_mean","allopatry_mean","subset_sympatry_mean","dispersal_mean","extinction_mean","in_situ_speciation_SD","founder_event_speciation_SD","allopatry_SD","subset_sympatry_SD","dispersal_SD","extinction_SD"
-"1",1,-315.650222373272,635.406639436809,2,116,0.00919146156098366,0.00771476227394349,0,1,37.51,121,0,58.2,50.8,43.5,1.3,6.2,0,3.458,5.827,1.9,0.823
-"2",2,-321.380084800923,646.866364292111,2,116,0.00994522275512343,0.0117918202394946,0,1,39.33,114,0,57.8,58.2,43.1,3.1,7.118,0,3.584,6.63,3.573,1.197
