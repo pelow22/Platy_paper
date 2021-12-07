@@ -43,3 +43,4 @@ h
 #export figure 2
 ggsave(filename = "Figure2_freq_spp_vs_range.png",  plot = last_plot(),  device = "png",  path = NULL,
        scale = 1,  width = 1000,  height = 1000,  units = "px",  dpi = 320,  limitsize = TRUE,  bg = NULL)
+

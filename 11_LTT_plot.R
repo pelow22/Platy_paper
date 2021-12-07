@@ -18,3 +18,4 @@ ltt95(mtrs, alpha = 0.05, log = FALSE, method = c("lineages", "times"),
 
 ltt95(mtrs, alpha = 0.05, log = TRUE, method = c("lineages", "times"), 
       mode = c("median", "mean"), shaded = TRUE, res = 1000, xaxis = "flipped")
+
