@@ -1,6 +1,0 @@
-Alouatta_coibensis	invalid_name	=Alouatta_palliata
-Aotus_infulatus	invalid_name	=Aotus_azarae
-Cacajao_ayresi	no_data
-Chiropotes_israelita	no_data
-Saguinus_graellsi	invalid_name	=Saguinus_nigricollis
-

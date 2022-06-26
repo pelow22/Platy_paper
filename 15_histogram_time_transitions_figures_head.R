@@ -5,7 +5,7 @@ library(ggplot2)
 
 #Histogram dispersal through time from WAM to EAM (code A -> AD)
 
-setwd("D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/results")
+setwd("D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/results/figures_head/")
 
 #open table with results
 tb_time <- read.csv(file = "All_transitions_by_node_BSM.csv", header = TRUE, sep = ",", dec = ".")
@@ -26,7 +26,7 @@ time_AtoD2 <- transform(time_AtoD, transitionTime = as.numeric(transitionTime))
 #  ylim(c(0,125))
 
 #histogram
-png("Figure_freq_dispersal_events_from_WAM_to_EAM2.png", width = 480, height = 480)
+png("Figure_freq_dispersal_events_from_WAM_to_EAM.png", width = 480, height = 480)
 hist(time_AtoD2$transitionTime, main = "Dispersal WAM -> WAM + EAM", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA, 
@@ -49,7 +49,7 @@ time_AtoDsr <- tb_time %>% select(transitionAnagType, transitionAnag, transition
 time_AtoDsr2 <- transform(time_AtoDsr, transitionTime = as.numeric(transitionTime))
 
 #histogram
-png("Figure_switch_range_from_WAM_to_EAM2.png", width = 480, height = 480)
+png("Figure_switch_range_WAM_to_EAM.png", width = 480, height = 480)
 hist(time_AtoDsr2$transitionTime, main = "Switch-range WAM -> EAM", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
@@ -83,7 +83,7 @@ time_AtoI <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTi
 time_AtoI2 <- transform(time_AtoI, transitionTime = as.numeric(transitionTime))
 
 #histogram
-png("Figure_dispersal_from_WAM_to_PAT2.png", width = 480, height = 480)
+png("Figure_dispersal_from_WAM_to_PAT.png", width = 480, height = 480)
 hist(time_AtoI2$transitionTime, main = "Dispersal WAM -> WAM + PAT", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
@@ -118,7 +118,7 @@ time_AtoG <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTi
 time_AtoG2 <- transform(time_AtoG, transitionTime = as.numeric(transitionTime))
 
 #histogram
-png("Figure_dispersal_from_WAM_to_CHO2.png", width = 480, height = 480)
+png("Figure_dispersal_from_WAM_to_CHO.png", width = 480, height = 480)
 hist(time_AtoG2$transitionTime, main = "Dispersal WAM -> WAM + CHO", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
@@ -215,7 +215,7 @@ time_AtoB2 <- transform(time_AtoB, transitionTime = as.numeric(transitionTime))
 
 #histogram
 png("Figure_dispersal_from_WAM_to_CHA.png", width = 480, height = 480)
-hist(time_AtoB2$transitionTime, main = "Dispersal WAM -> WAM + CHA", 
+hist(time_AtoB2$transitionTime, main = "WAM -> WAM + CHA", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
      cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
@@ -232,7 +232,7 @@ time_CtoB2 <- transform(time_CtoB, transitionTime = as.numeric(transitionTime))
 
 #histogram
 png("Figure_dispersal_from_SAF_to_CHA.png", width = 480, height = 480)
-hist(time_CtoB2$transitionTime, main = "Dispersal SAF -> SAF + CHA", 
+hist(time_CtoB2$transitionTime, main = "SAF -> SAF + CHA", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
      cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
@@ -262,7 +262,7 @@ time_AtoJ2 <- transform(time_AtoJ, transitionTime = as.numeric(transitionTime))
 
 #histogram
 png("Figure_dispersal_from_WAM_to_CAR.png", width = 480, height = 480)
-hist(time_AtoJ2$transitionTime, main = "Dispersal WAM -> WAM + CAR", 
+hist(time_AtoJ2$transitionTime, main = "WAM -> WAM + CAR", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
      cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
@@ -277,7 +277,7 @@ time_AtoF2 <- transform(time_AtoF, transitionTime = as.numeric(transitionTime))
 
 #histogram
 png("Figure_dispersal_from_WAM_to_MES.png", width = 480, height = 480)
-hist(time_AtoF2$transitionTime, main = "Dispersal WAM -> WAM + MES", 
+hist(time_AtoF2$transitionTime, main = "WAM -> WAM + MES", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
      cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
@@ -292,7 +292,7 @@ time_AtoH2 <- transform(time_AtoH, transitionTime = as.numeric(transitionTime))
 
 #histogram
 png("Figure_dispersal_from_WAM_to_DNO.png", width = 480, height = 480)
-hist(time_AtoH2$transitionTime, main = "Dispersal WAM -> WAM + DNO", 
+hist(time_AtoH2$transitionTime, main = "WAM -> WAM + DNO", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
      cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
@@ -337,7 +337,7 @@ time_FtoG2 <- transform(time_FtoG, transitionTime = as.numeric(transitionTime))
 
 #histogram
 png("Figure_dispersal_from_MES_to_CHO.png", width = 480, height = 480)
-hist(time_FtoG2$transitionTime, main = "Dispersal MES -> MES + CHO", 
+hist(time_FtoG2$transitionTime, main = "MES -> MES + CHO", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
      cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
@@ -352,7 +352,7 @@ time_GtoF2 <- transform(time_GtoF, transitionTime = as.numeric(transitionTime))
 
 #histogram
 png("Figure_dispersal_from_CHO_to_MES.png", width = 480, height = 480)
-hist(time_GtoF2$transitionTime, main = "Dispersal CHO -> CHO + MES", 
+hist(time_GtoF2$transitionTime, main = "CHO -> CHO + MES", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
      cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
@@ -368,6 +368,96 @@ time_ItoA2 <- transform(time_ItoA, transitionTime = as.numeric(transitionTime))
 #histogram
 png("Figure_dispersal_from_PAT_to_WAM.png", width = 480, height = 480)
 hist(time_ItoA2$transitionTime, main = "Dispersal PAT -> PAT + WAM", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA,
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+##Filter table for dispersal from D -> AD (EAM -> WAM)
+time_DtoA <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "D -> AD")
+
+time_DtoA2 <- transform(time_DtoA, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("Figure_dispersal_from_EAM_to_WAM.png", width = 480, height = 480)
+hist(time_DtoA2$transitionTime, main = "Dispersal EAM -> EAM + WAM", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA,
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+##Filter table for dispersal from A -> AE (WAM -> NAF)
+time_AtoE <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "A -> AE")
+
+time_AtoE2 <- transform(time_AtoE, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("Figure_dispersal_from_WAM_to_NAF.png", width = 480, height = 480)
+hist(time_AtoE2$transitionTime, main = "WAM -> WAM + NAF", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA,
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+##Filter table for dispersal from D -> DE (EAM -> NAF)
+time_DtoE <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "D -> DE")
+
+time_DtoE2 <- transform(time_DtoE, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("Figure_dispersal_from_EAM_to_NAF.png", width = 480, height = 480)
+hist(time_DtoE2$transitionTime, main = "EAM -> EAM + NAF", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA,
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+##Filter table for dispersal from D -> EF (EAM -> MES)
+time_DtoF <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "D -> EF")
+
+time_DtoF2 <- transform(time_DtoF, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("Figure_dispersal_from_EAM_to_MES.png", width = 480, height = 480)
+hist(time_DtoF2$transitionTime, main = "EAM -> EAM + MES", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA,
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+##Filter table for dispersal from G -> AG (CHO -> WAM)
+time_GtoA <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "G -> AG")
+
+time_GtoA2 <- transform(time_GtoA, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("Figure_dispersal_from_CHO_to_WAM.png", width = 480, height = 480)
+hist(time_GtoF2$transitionTime, main = "Dispersal CHO -> CHO + WAM", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA,
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+##Filter table for dispersal from C -> AC (SAF -> WAM)
+time_CtoA <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "C -> AC")
+
+time_CtoA2 <- transform(time_CtoA, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("Figure_dispersal_from_SAF_to_WAM.png", width = 480, height = 480)
+hist(time_CtoA2$transitionTime, main = "Dispersal SAF -> SAF + WAM", 
      xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
      col = "grey30", border = 'grey30', las = 1, ylab = NA,
      cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
