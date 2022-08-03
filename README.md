@@ -11,6 +11,5 @@ We ran the Infomap Bioregions application (https://www.mapequation.org/bioregion
 #### 2) Dissolved grids into bioregions<br> [Platyrhinni_dissolved_bioregions_shapefile.zip](https://github.com/pelow22/Platy_paper/files/9254100/Platyrhinni_dissolved_bioregions_shapefile.zip)
 ![Figure 1_bioregion_hill_color](https://user-images.githubusercontent.com/65909510/182682526-a65daa23-ec2a-47f4-b9ec-0cc88ef40cb8.png)
 
-#### 3) Attached units<br>
-[Caribean_Patagonian.zip](https://github.com/pelow22/Platy_paper/files/9254196/Caribean_Patagonian.zip)
+#### 3) Attached units<br> [Caribean_Patagonian.zip](https://github.com/pelow22/Platy_paper/files/9254196/Caribean_Patagonian.zip)
 ![Caribbean_Patagonian](https://user-images.githubusercontent.com/65909510/182685666-e284885c-27d2-4a69-92fb-25b8ef3e615f.png)
