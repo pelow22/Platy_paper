@@ -6,7 +6,7 @@ library(TTR)
 library(AICcmodavg)
 library(geoscale)
 
-setwd("D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/results/figures_head")
+setwd("D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/results/figures_head")
 
 dispersal_relative <- as.data.frame(relative2$relative)
 dispersal_relative

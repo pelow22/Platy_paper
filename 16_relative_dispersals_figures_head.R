@@ -1,7 +1,7 @@
 library(dplyr)
 library(ggplot2)
 
-setwd("D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/results/figures_head")
+setwd("D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/results/figures_head")
 
 #table with absolut dispersals (from script 14)
 absolut
@@ -26,9 +26,9 @@ dev.off()
 
 ####LTT,
 
-png("Figure_absolut_LTT.png", width = 480, height = 480)
+png("Figure_absolut_LTT_log.png", width = 480, height = 480)
 plot(relative2$time, relative2$mean, type = "l", lwd=2, xlim = c(50,0),
-     main = "Lineage through time", xlab = "Time", ylab = NA,
+     main = "Lineages through time", xlab = "Time", ylab = NA, log = "y",
      las = 1, cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5,
      frame = FALSE, col = "grey30", pch = 19)
 abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)

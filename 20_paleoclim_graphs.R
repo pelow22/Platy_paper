@@ -166,3 +166,9 @@ pairwise.wilcox.test(phtemp$surfaceTemperature, phtemp$Phase,
 #C 5.8e-09 < 2e-16 -      
 #D < 2e-16 < 2e-16 < 2e-16
 #P value adjustment method: none
+
+###Lagged graphic
+## 
+
+dis_time_rel
+lag5 <- cbind((dis_time_rel$V1+5), dis_time_rel$V2)

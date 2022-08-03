@@ -53,8 +53,9 @@ plot(df4)
 
 ### LTT 10 sampled trees.
 
-samp10 = read.nexus(file = "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/results/10_pruned_trees.nex")
+samp10 = read.nexus(file = "D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/results/10_pruned_trees.nex")
 plot(samp10)
+
 
 ltt_s10 <- mltt.plot(samp10, dcol = FALSE, dlty = FALSE, legend = FALSE,
                       xlab = "Time", ylab = "N", log = "", backward = TRUE,
