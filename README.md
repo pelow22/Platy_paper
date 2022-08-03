@@ -10,5 +10,3 @@ We ran the Infomap Bioregions application (https://www.mapequation.org/bioregion
 
 #### Shapefile with dissolved bioregions<br> [Platyrhinni_dissolved_bioregions_shapefile.zip](https://github.com/pelow22/Platy_paper/files/9254100/Platyrhinni_dissolved_bioregions_shapefile.zip)
 ![Figure 1_bioregion_hill_color](https://user-images.githubusercontent.com/65909510/182682526-a65daa23-ec2a-47f4-b9ec-0cc88ef40cb8.png)
-
-> Citation: Löwenberg-Neto, P. (*submitted*) Bioregions and lineage dispersal modelling of the New World Monkeys. **Journal of Biogeography**.<br>
