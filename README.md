@@ -1,4 +1,4 @@
-## Bioregions and lineage dispersal modelling of the New World Monkeys<br>
+# Bioregions and lineage dispersal modelling of the New World Monkeys<br>
 
 ## Appendix S1. Bioregions delineated based on extant platyrrhine geographic ranges. <br>
 
