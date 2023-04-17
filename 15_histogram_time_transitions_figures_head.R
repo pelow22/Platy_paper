@@ -91,6 +91,8 @@ hist(time_AtoI2$transitionTime, main = "Dispersal WAM -> WAM + PAT",
 abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
 dev.off()
 
+plot(density(time_AtoI2$transitionTime))
+
 #histogram
 #ggplot(time_AtoI2, aes(x = transitionTime)) + 
 #  geom_histogram(binwidth = 0.5, boundary = 0) +
@@ -125,6 +127,16 @@ hist(time_AtoG2$transitionTime, main = "Dispersal WAM -> WAM + CHO",
      cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
 abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
 dev.off()
+
+#testing for bimodality
+plot(density(time_AtoG2$transitionTime))
+multimode::modetest(time_AtoG2$transitionTime)
+
+#Ameijeiras-Alonso et al. (2019) excess mass test
+#data:  time_AtoG2$transitionTime
+#Excess mass = 0.11019, p-value < 2.2e-16
+#alternative hypothesis: true number of modes is greater than 1
+
 
 #histogram
 #ggplot(time_AtoG2, aes(x = transitionTime)) + 

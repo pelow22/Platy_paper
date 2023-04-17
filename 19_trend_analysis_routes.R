@@ -3,7 +3,7 @@ library(strucchange)
 setwd("D:/Usuários/peter/OneDrive/Pesquisa/2021_ArtigoQ1 2 Platyrhinni-Asus/Platy_paper/results/figures_head/")
 
 
-## Breking points for the routes.
+## Breaking points for the routes.
 
 ### WAM -> WAM + EAM (A -> AD) rel_AtoD2 (script 16)
 #result: 2 breaks (12 e 18)
