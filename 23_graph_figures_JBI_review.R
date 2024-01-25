@@ -1,4 +1,4 @@
-###Figures of the routes (REVIEW process) April 2023
+###Figures of the routes (REVIEW process) April 2023, January 2024
 
 library(dplyr)
 library(ggplot2)
@@ -372,7 +372,7 @@ rel_AtoF <- inner_join(htimeAtoF2, meanltt2, by="time")
 rel_AtoF2 <- rel_AtoF %>% mutate(relative= htimeAtoF2/mean)
 
 
-## Breking points for the routes.
+## Braking points for the routes.
 
 rel_AtoF3 <- as.data.frame(rel_AtoF2$relative)
 ts_rel_AtoF3 <- ts(rel_AtoF3)
@@ -433,7 +433,7 @@ rel_CtoE <- inner_join(htimeCtoE2, meanltt2, by="time")
 rel_CtoE2 <- rel_CtoE %>% mutate(relative= htimeCtoE2/mean)
 
 
-## Breking points for the routes.
+## Braking points for the routes.
 
 rel_CtoE3 <- as.data.frame(rel_CtoE2$relative)
 ts_rel_CtoE3 <- ts(rel_CtoE3)
@@ -496,7 +496,7 @@ rel_AtoE <- inner_join(htimeAtoE2, meanltt2, by="time")
 rel_AtoE2 <- rel_AtoE %>% mutate(relative= htimeAtoE2/mean)
 
 
-## Breking points for the routes.
+## Braking points for the routes.
 
 rel_AtoE3 <- as.data.frame(rel_AtoE2$relative)
 ts_rel_AtoE3 <- ts(rel_AtoE3)
@@ -674,8 +674,66 @@ hist(time_FtoJ2$transitionTime, main = "Dispersal MES -> MES + CAR",
 abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
 dev.off()
 
-#28December2023
+#25janurary2024
 #Patagonian to Western Amazonia
 ## PAT -> PAT + WAM
-#não fiz porque achei a figura no onenote. Talvez tenha que fazer por causa
-#dos breaking points. Procurando o script de modalidade e estatisticas descritivas.
+
+#absolute number of dispersals
+#Filter table for dispersal from I -> AI
+time_ItoA <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "I -> AI")
+
+time_ItoA2 <- transform(time_ItoA, transitionTime = as.numeric(transitionTime))
+
+
+#histogram
+png("PAT_to_WAM_absolute_dispersal.png", width = 480, height = 480)
+hist(time_ItoA2$transitionTime, main = "Dispersal PAT -> PAT + WAM", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA, 
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+#Rate graph
+htimeItoA <- hist(time_ItoA2$transitionTime, breaks = seq(50,0,-1), xlim = c(50,0))
+htimeItoA2 <- htimeItoA$counts
+htimeItoA2 <- as.data.frame(htimeItoA2)
+htimeItoA2$time <- seq(0, 49, 1)
+
+rel_ItoA <- inner_join(htimeItoA2, meanltt2, by="time")
+rel_ItoA2 <- rel_ItoA %>% mutate(relative= htimeItoA2/mean)
+
+
+## Braking points for the routes.
+
+rel_ItoA3 <- as.data.frame(rel_ItoA2$relative)
+ts_rel_ItoA3 <- ts(rel_ItoA3)
+plot(ts_rel_ItoA3, xlim=c(50,0))
+
+bps_ItoA <-breakpoints(ts_rel_ItoA3~1)
+summary(bps_ItoA)
+
+mbp0_ItoA <- lm(rel_ItoA2$relative~1)
+mbp1_ItoA <- lm(rel_ItoA2$relative~breakfactor(bps_ItoA,breaks=1))
+mbp2_ItoA <- lm(rel_ItoA2$relative~breakfactor(bps_ItoA,breaks=2))
+mbp3_ItoA <- lm(rel_ItoA2$relative~breakfactor(bps_ItoA,breaks=3))
+mbp4_ItoA <- lm(rel_ItoA2$relative~breakfactor(bps_ItoA,breaks=4))
+mbp5_ItoA <- lm(rel_ItoA2$relative~breakfactor(bps_ItoA,breaks=5))
+mbp6_ItoA <- lm(rel_ItoA2$relative~breakfactor(bps_ItoA,breaks=6))
+anova(mbp0_ItoA, mbp1_ItoA)
+anova(mbp1_ItoA,mbp2_ItoA)
+anova(mbp2_ItoA,mbp3_ItoA)
+anova(mbp3_ItoA,mbp4_ItoA)
+anova(mbp3_ItoA,mbp5_ItoA)
+anova(mbp3_ItoA,mbp6_ItoA)
+
+png("PAT_to_WAM_rate_break.png", width = 480, height = 480)
+plot(rel_ItoA2$time, rel_ItoA2$relative, type = "l", lwd=2, xlim = c(50,0), ylim = c(0,8),
+     main = "Dispersal (PAT -> PAT + WAM) / LTT", xlab = "Time", ylab = NA,
+     las = 1, cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5,
+     frame = FALSE, col = "grey30", pch = 19)
+abline(v = c(16,23,30), lwd=0.5,lty=1)
+lines(rel_ItoA2$time, ts(fitted(mbp3_ItoA),start=1),lwd=2,lty=4, col = "gray50")
+dev.off()
+

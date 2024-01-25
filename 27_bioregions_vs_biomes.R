@@ -1,6 +1,4 @@
-#spatial concordance between Platyrrhini bioregions and
-#biomes (shapefile from Antonelli et al. 2018),
-#bioregions and subregions (Morrone 2014)
+#spatial concordance between Platyrrhini bioregions and six categorical maps
 
 library(udunits2)
 library(sabre)
