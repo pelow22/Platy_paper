@@ -1,0 +1,11 @@
+Bioregion	Spp.
+WAM	62
+CHA	8
+SAF	12
+EAM	20
+NAF	7
+MES	5
+CHO	9
+DNO	2
+PAT	9
+CAR	4

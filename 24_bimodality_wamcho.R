@@ -97,3 +97,8 @@ summary(time_CtoE2$transitionTime)
 modetest(time_CtoB2$transitionTime)
 locmodes(time_CtoB2$transitionTime, mod0 = 1, display = TRUE)
 summary(time_CtoB2$transitionTime)
+
+#PAT TO WAM
+modetest(time_ItoA2$transitionTime)
+locmodes(time_ItoA2$transitionTime, mod0 = 1, display = TRUE)
+summary(time_ItoA2$transitionTime)

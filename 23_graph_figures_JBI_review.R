@@ -464,3 +464,218 @@ plot(rel_CtoE2$time, rel_CtoE2$relative, type = "l", lwd=2, xlim = c(50,0), ylim
 abline(v = c(6), lwd=0.5,lty=1)
 lines(rel_CtoE2$time, ts(fitted(mbp1_CtoE),start=1),lwd=2,lty=4, col = "gray50")
 dev.off()
+
+#AMAzonia to NOrth Atlantic FOrest
+## WAM -> WAM + NAF
+
+#absolute number of dispersals
+#Filter table for dispersal from A -> E
+time_AtoE <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "A -> AE")
+
+time_AtoE2 <- transform(time_AtoE, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("WAM_to_NAF_absolute_dispersal.png", width = 480, height = 480)
+hist(time_AtoE2$transitionTime, main = "Dispersal WAM -> WAM + NAF", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA, 
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+
+
+#Rate graph
+htimeAtoE <- hist(time_AtoE2$transitionTime, breaks = seq(50,0,-1), xlim = c(50,0))
+htimeAtoE2 <- htimeAtoE$counts
+htimeAtoE2 <- as.data.frame(htimeAtoE2)
+htimeAtoE2$time <- seq(0, 49, 1)
+
+rel_AtoE <- inner_join(htimeAtoE2, meanltt2, by="time")
+rel_AtoE2 <- rel_AtoE %>% mutate(relative= htimeAtoE2/mean)
+
+
+## Breking points for the routes.
+
+rel_AtoE3 <- as.data.frame(rel_AtoE2$relative)
+ts_rel_AtoE3 <- ts(rel_AtoE3)
+plot(ts_rel_AtoE3, xlim=c(50,0))
+
+bps_AtoE <-breakpoints(ts_rel_AtoE3~1)
+summary(bps_AtoE)
+
+mbp0_AtoE <- lm(rel_AtoE2$relative~1)
+mbp1_AtoE <- lm(rel_AtoE2$relative~breakfactor(bps_AtoE,breaks=1))
+mbp2_AtoE <- lm(rel_AtoE2$relative~breakfactor(bps_AtoE,breaks=2))
+mbp3_AtoE <- lm(rel_AtoE2$relative~breakfactor(bps_AtoE,breaks=3))
+mbp4_AtoE <- lm(rel_AtoE2$relative~breakfactor(bps_AtoE,breaks=4))
+mbp5_AtoE <- lm(rel_AtoE2$relative~breakfactor(bps_AtoE,breaks=5))
+mbp6_AtoE <- lm(rel_AtoE2$relative~breakfactor(bps_AtoE,breaks=6))
+anova(mbp0_AtoE, mbp1_AtoE)
+anova(mbp1_AtoE,mbp2_AtoE)
+anova(mbp2_AtoE,mbp3_AtoE)
+anova(mbp2_AtoE,mbp4_AtoE)
+anova(mbp2_AtoE,mbp5_AtoE)
+anova(mbp2_AtoE,mbp6_AtoE)
+
+png("WAM_to_NAF_rate_break.png", width = 480, height = 480)
+plot(rel_AtoE2$time, rel_AtoE2$relative, type = "l", lwd=2, xlim = c(50,0), ylim = c(0,8),
+     main = "Dispersal (WAM -> WAM + NAF) / LTT", xlab = "Time", ylab = NA,
+     las = 1, cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5,
+     frame = FALSE, col = "grey30", pch = 19)
+abline(v = c(8,19), lwd=0.5,lty=1)
+lines(rel_AtoE2$time, ts(fitted(mbp2_AtoE),start=1),lwd=2,lty=4, col = "gray50")
+dev.off()
+
+
+#AMAzonia to DRY NORTH SOUTH AMERICA 
+## WAM -> WAM + DNO
+
+#absolute number of dispersals
+#Filter table for dispersal from A -> AH
+time_AtoH <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "A -> AH")
+
+time_AtoH2 <- transform(time_AtoH, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("WAM_to_DNO_absolute_dispersal.png", width = 480, height = 480)
+hist(time_AtoH2$transitionTime, main = "Dispersal WAM -> WAM + DNO", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA, 
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+
+
+#Rate graph
+htimeAtoH <- hist(time_AtoH2$transitionTime, breaks = seq(50,0,-1), xlim = c(50,0))
+htimeAtoH2 <- htimeAtoH$counts
+htimeAtoH2 <- as.data.frame(htimeAtoH2)
+htimeAtoH2$time <- seq(0, 49, 1)
+
+rel_AtoH <- inner_join(htimeAtoH2, meanltt2, by="time")
+rel_AtoH2 <- rel_AtoH %>% mutate(relative= htimeAtoH2/mean)
+
+
+## Breking points for the routes.
+
+rel_AtoH3 <- as.data.frame(rel_AtoH2$relative)
+ts_rel_AtoH3 <- ts(rel_AtoH3)
+plot(ts_rel_AtoH3, xlim=c(50,0))
+
+bps_AtoH <-breakpoints(ts_rel_AtoH3~1)
+summary(bps_AtoH)
+
+mbp0_AtoH <- lm(rel_AtoH2$relative~1)
+mbp1_AtoH <- lm(rel_AtoH2$relative~breakfactor(bps_AtoH,breaks=1))
+mbp2_AtoH <- lm(rel_AtoH2$relative~breakfactor(bps_AtoH,breaks=2))
+mbp3_AtoH <- lm(rel_AtoH2$relative~breakfactor(bps_AtoH,breaks=3))
+mbp4_AtoH <- lm(rel_AtoH2$relative~breakfactor(bps_AtoH,breaks=4))
+mbp5_AtoH <- lm(rel_AtoH2$relative~breakfactor(bps_AtoH,breaks=5))
+mbp6_AtoH <- lm(rel_AtoH2$relative~breakfactor(bps_AtoH,breaks=6))
+anova(mbp0_AtoH, mbp1_AtoH)
+anova(mbp1_AtoH,mbp2_AtoH)
+anova(mbp2_AtoH,mbp3_AtoH)
+anova(mbp2_AtoH,mbp4_AtoH)
+anova(mbp2_AtoH,mbp5_AtoH)
+anova(mbp2_AtoH,mbp6_AtoH)
+
+png("WAM_to_DNO_rate_break.png", width = 480, height = 480)
+plot(rel_AtoH2$time, rel_AtoH2$relative, type = "l", lwd=2, xlim = c(50,0), ylim = c(0,8),
+     main = "Dispersal (WAM -> WAM + DNO) / LTT", xlab = "Time", ylab = NA,
+     las = 1, cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5,
+     frame = FALSE, col = "grey30", pch = 19)
+abline(v = c(6), lwd=0.5,lty=1)
+lines(rel_AtoH2$time, ts(fitted(mbp1_AtoH),start=1),lwd=2,lty=4, col = "gray50")
+dev.off()
+
+#nORTH ATLANTIC FOREST TO SOUTH ATLANTIC FOREST
+## NAF -> NAF + SAF
+
+#absolute number of dispersals
+#Filter table for dispersal from E -> CE
+time_EtoC <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "E -> CE")
+
+time_EtoC2 <- transform(time_EtoC, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("NAF_to_SAF_absolute_dispersal.png", width = 480, height = 480)
+hist(time_EtoC2$transitionTime, main = "Dispersal NAF -> NAF + SAF", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA, 
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+
+
+#Rate graph
+htimeEtoC <- hist(time_EtoC2$transitionTime, breaks = seq(50,0,-1), xlim = c(50,0))
+htimeEtoC2 <- htimeEtoC$counts
+htimeEtoC2 <- as.data.frame(htimeEtoC2)
+htimeEtoC2$time <- seq(0, 49, 1)
+
+rel_EtoC <- inner_join(htimeEtoC2, meanltt2, by="time")
+rel_EtoC2 <- rel_EtoC %>% mutate(relative= htimeEtoC2/mean)
+
+
+## Breking points for the routes.
+
+rel_EtoC3 <- as.data.frame(rel_EtoC2$relative)
+ts_rel_EtoC3 <- ts(rel_EtoC3)
+plot(ts_rel_EtoC3, xlim=c(50,0))
+
+bps_EtoC <-breakpoints(ts_rel_EtoC3~1)
+summary(bps_EtoC)
+
+mbp0_EtoC <- lm(rel_EtoC2$relative~1)
+mbp1_EtoC <- lm(rel_EtoC2$relative~breakfactor(bps_EtoC,breaks=1))
+mbp2_EtoC <- lm(rel_EtoC2$relative~breakfactor(bps_EtoC,breaks=2))
+mbp3_EtoC <- lm(rel_EtoC2$relative~breakfactor(bps_EtoC,breaks=3))
+mbp4_EtoC <- lm(rel_EtoC2$relative~breakfactor(bps_EtoC,breaks=4))
+mbp5_EtoC <- lm(rel_EtoC2$relative~breakfactor(bps_EtoC,breaks=5))
+mbp6_EtoC <- lm(rel_EtoC2$relative~breakfactor(bps_EtoC,breaks=6))
+anova(mbp0_EtoC, mbp1_EtoC)
+anova(mbp1_EtoC,mbp2_EtoC)
+anova(mbp2_EtoC,mbp3_EtoC)
+anova(mbp2_EtoC,mbp4_EtoC)
+anova(mbp2_EtoC,mbp5_EtoC)
+anova(mbp2_EtoC,mbp6_EtoC)
+
+png("NAF_to_SAF_rate_break.png", width = 480, height = 480)
+plot(rel_EtoC2$time, rel_EtoC2$relative, type = "l", lwd=2, xlim = c(50,0), ylim = c(0,8),
+     main = "Dispersal (NAF -> NAF + SAF) / LTT", xlab = "Time", ylab = NA,
+     las = 1, cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5,
+     frame = FALSE, col = "grey30", pch = 19)
+abline(v = c(7,13), lwd=0.5,lty=1)
+lines(rel_EtoC2$time, ts(fitted(mbp2_EtoC),start=1),lwd=2,lty=4, col = "gray50")
+dev.off()
+
+#Mesoamerica to Caribean
+## MES -> MES + CAR
+
+#absolute number of dispersals
+#Filter table for dispersal from F -> FJ
+time_FtoJ <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "F -> FJ")
+
+time_FtoJ2 <- transform(time_FtoJ, transitionTime = as.numeric(transitionTime))
+
+#histogram
+png("MES_to_CAR_absolute_dispersal.png", width = 480, height = 480)
+hist(time_FtoJ2$transitionTime, main = "Dispersal MES -> MES + CAR", 
+     xlab ="Time", xlim = c(50,0), breaks = seq(50,0,-1), ylim = c(0,150),
+     col = "grey30", border = 'grey30', las = 1, ylab = NA, 
+     cex.lab=1.5, cex.axis=1.5, cex.main=1.5, cex.sub=1.5)
+abline(v = c(33.9,23.03,5.33,2.58), lwd=0.5,lty=3)
+dev.off()
+
+#28December2023
+#Patagonian to Western Amazonia
+## PAT -> PAT + WAM
+#não fiz porque achei a figura no onenote. Talvez tenha que fazer por causa
+#dos breaking points. Procurando o script de modalidade e estatisticas descritivas.

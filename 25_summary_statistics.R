@@ -43,3 +43,27 @@ time_CtoE <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTi
 
 time_CtoE2 <- transform(time_CtoE, transitionTime = as.numeric(transitionTime))
 summary(time_CtoE2$transitionTime)
+
+#absolute number of dispersals
+#Filter table for dispersal from WAM -> WAM + NAF
+time_AtoE <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "A -> AE")
+
+time_AtoE2 <- transform(time_AtoE, transitionTime = as.numeric(transitionTime))
+summary(time_AtoE2$transitionTime)
+
+#absolute number of dispersals
+#Filter table for dispersal from WAM -> WAM + DNO
+time_AtoH <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "A -> AH")
+
+time_AtoH2 <- transform(time_AtoH, transitionTime = as.numeric(transitionTime))
+summary(time_AtoH2$transitionTime)
+
+#absolute number of dispersals
+#Filter table for dispersal from NAF -> NAF + SAF
+time_EtoC <- tb_time %>% select(transitionAnagType, transitionAnag, transitionTime)%>%
+  filter(transitionAnagType=="dispersal") %>% filter(transitionAnag == "E -> CE")
+
+time_EtoC2 <- transform(time_EtoC, transitionTime = as.numeric(transitionTime))
+summary(time_EtoC2$transitionTime)
